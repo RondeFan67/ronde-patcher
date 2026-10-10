@@ -1,0 +1,1269 @@
+id	file	offset	max	kind	japanese	english	src	note
+0.BIN:4560B	0.BIN	4560B	8	rec	あすか	Asuka	claude	name #0
+0.BIN:45614	0.BIN	45614	8	rec	よしつね	Yoshitsu	claude	name #0
+0.BIN:4561D	0.BIN	4561D	8	rec	カバク	Capac	claude	name #1
+0.BIN:45626	0.BIN	45626	8	rec	ハデス	Hades	claude	name #2
+0.BIN:4562F	0.BIN	4562F	8	rec	アンラ・マンユ	Angra M.	claude	name #3
+0.BIN:45638	0.BIN	45638	8	rec	アンラ・マンユ	Angra M.	claude	name #4
+0.BIN:45641	0.BIN	45641	8	rec	あき	Aki	claude	name #5
+0.BIN:4564A	0.BIN	4564A	8	rec	あき	Aki	claude	name #6
+0.BIN:45653	0.BIN	45653	8	rec	チャーリー	Charlie	claude	name #7
+0.BIN:4565C	0.BIN	4565C	8	rec	れいか	Reika	claude	name #8
+0.BIN:45665	0.BIN	45665	8	rec	れいか	Reika	claude	name #9
+0.BIN:4566E	0.BIN	4566E	8	rec	ウィリー	Willie	claude	name #10
+0.BIN:45677	0.BIN	45677	8	rec	ウィリー	Willie	claude	name #11
+0.BIN:45680	0.BIN	45680	8	rec	ソロモン	Solomon	claude	name #12
+0.BIN:45689	0.BIN	45689	8	rec	かんたろう	Kantaro	claude	name #13
+0.BIN:45692	0.BIN	45692	8	rec	シスオペ	Sysop	claude	name #14
+0.BIN:4569B	0.BIN	4569B	8	rec	シスオペ	Sysop	claude	name #15
+0.BIN:456A4	0.BIN	456A4	8	rec	さわき	Sawaki	claude	name #16
+0.BIN:456AD	0.BIN	456AD	8	rec	さわき	Sawaki	claude	name #17
+0.BIN:456B6	0.BIN	456B6	8	rec	さわき	Sawaki	claude	name #18
+0.BIN:456BF	0.BIN	456BF	8	rec	さわき	Sawaki	claude	name #19
+0.BIN:456C8	0.BIN	456C8	8	rec	けいた	Keita	claude	name #20
+0.BIN:456D1	0.BIN	456D1	8	rec	さくらこ	Sakurako	claude	name #21
+0.BIN:456DA	0.BIN	456DA	8	rec	ジョーカー	Joker	claude	name #22
+0.BIN:456E3	0.BIN	456E3	8	rec	マリア	Maria	claude	name #23
+0.BIN:456EC	0.BIN	456EC	8	rec	マリア	Maria	claude	name #24
+0.BIN:456F5	0.BIN	456F5	8	rec	ムハマド	Muhammad	claude	name #25
+0.BIN:456FE	0.BIN	456FE	8	rec	ムハマド	Muhammad	claude	name #26
+0.BIN:45707	0.BIN	45707	8	rec	ムハマド	Muhammad	claude	name #27
+0.BIN:45710	0.BIN	45710	8	rec	エスパーベビー	EsprBaby	claude	name #28
+0.BIN:45719	0.BIN	45719	8	rec	べんけい	Benkei	claude	name #29
+0.BIN:45722	0.BIN	45722	8	rec	よしつねへい	Y.Soldr	claude	name #30
+0.BIN:4572B	0.BIN	4572B	8	rec	ナナワツィン	Nanahuat	claude	name #31
+0.BIN:45734	0.BIN	45734	8	rec	スヌパ	Thunupa	claude	name #32
+0.BIN:4573D	0.BIN	4573D	8	rec	ツパ	Tupa	claude	name #33
+0.BIN:45746	0.BIN	45746	8	rec	じゅじゅつし	Shaman	claude	name #34
+0.BIN:4574F	0.BIN	4574F	8	rec	ヘンス	Hans	claude	name #35
+0.BIN:45758	0.BIN	45758	8	rec	ジョアンナ	Joanna	claude	name #36
+0.BIN:45761	0.BIN	45761	8	rec	ヘカーテ	Hecate	claude	name #37
+0.BIN:4576A	0.BIN	4576A	8	rec	ケルベロス	Cerberus	claude	name #38
+0.BIN:45773	0.BIN	45773	8	rec	ツルベビ	Tsurubi	claude	name #39
+0.BIN:4577C	0.BIN	4577C	8	rec	インプ	Imp	claude	name #40
+0.BIN:45785	0.BIN	45785	8	rec	カシウス	Cassius	claude	name #41
+0.BIN:4578E	0.BIN	4578E	8	rec	カシウス	Cassius	claude	name #42
+0.BIN:45797	0.BIN	45797	8	rec	アエーシャマ	Aeshma	claude	name #43
+0.BIN:457A0	0.BIN	457A0	8	rec	けいた	Keita	claude	name #44
+0.BIN:457A9	0.BIN	457A9	8	rec	さくらこ	Sakurako	claude	name #45
+0.BIN:457B2	0.BIN	457B2	8	rec	チャーリー	Charlie	claude	name #46
+0.BIN:457BB	0.BIN	457BB	8	rec	れいか	Reika	claude	name #47
+0.BIN:457C4	0.BIN	457C4	8	rec	マリア	Maria	claude	name #48
+0.BIN:457CD	0.BIN	457CD	8	rec	かんたろう	Kantaro	claude	name #49
+0.BIN:457D6	0.BIN	457D6	8	rec	シスオペ	Sysop	claude	name #50
+0.BIN:457DF	0.BIN	457DF	8	rec	さわき	Sawaki	claude	name #51
+0.BIN:457E8	0.BIN	457E8	8	rec	アンラ・マンユ	Angra M.	claude	name #52
+0.BIN:457F1	0.BIN	457F1	8	rec	アバドン	Abaddon	claude	name #53
+0.BIN:457FA	0.BIN	457FA	8	rec	アザエル	Azazel	claude	name #54
+0.BIN:45803	0.BIN	45803	8	rec	アザエル	Azazel	claude	name #55
+0.BIN:4580C	0.BIN	4580C	8	rec	リリム	Lilim	claude	name #56
+0.BIN:45815	0.BIN	45815	8	rec	ニムロデ	Nimrod	claude	name #57
+0.BIN:4581E	0.BIN	4581E	8	rec	ニムロデ	Nimrod	claude	name #58
+0.BIN:45827	0.BIN	45827	8	rec	カシウス	Cassius	claude	name #59
+0.BIN:45830	0.BIN	45830	8	rec	ケルベロス	Cerberus	claude	name #60
+0.BIN:45839	0.BIN	45839	8	rec	ソルレオン	SolLeon	claude	name #61
+0.BIN:45842	0.BIN	45842	8	rec	シェミハザ	Shemhaza	claude	name #62
+0.BIN:4584B	0.BIN	4584B	8	rec	アイアコス	Aeacus	claude	name #63
+0.BIN:45854	0.BIN	45854	8	rec	メフィスト	Mephisto	claude	name #64
+0.BIN:4585D	0.BIN	4585D	8	rec	べいぐんへいし	US Sldr.	claude	name #65
+0.BIN:45866	0.BIN	45866	8	rec	ムニン	Muninn	claude	name #66
+0.BIN:4586F	0.BIN	4586F	8	rec	シラヌイ	Shiranui	claude	name #67
+0.BIN:45878	0.BIN	45878	8	rec	ゼパル	Zepar	claude	name #68
+0.BIN:45881	0.BIN	45881	8	rec	アメノフチコマ	Fuchikma	claude	name #69
+0.BIN:4588A	0.BIN	4588A	8	rec	オセ	Ose	claude	name #70
+0.BIN:45893	0.BIN	45893	8	rec	コリキタイセン	KorikiT.	claude	name #71
+0.BIN:4589C	0.BIN	4589C	8	rec	グクマツ	Gucumatz	claude	name #72
+0.BIN:458A5	0.BIN	458A5	8	rec	ジャランダーラ	Jalandra	claude	name #73
+0.BIN:458AE	0.BIN	458AE	8	rec	フギン	Huginn	claude	name #74
+0.BIN:458B7	0.BIN	458B7	8	rec	シルキー	Silky	claude	name #75
+0.BIN:458C0	0.BIN	458C0	8	rec	ラーガラジャ	Ragaraja	claude	name #76
+0.BIN:458C9	0.BIN	458C9	8	rec	キョウリョウ	Kyoryo	claude	name #77
+0.BIN:458D2	0.BIN	458D2	8	rec	ゲシュペンスト	Gespenst	claude	name #78
+0.BIN:458DB	0.BIN	458DB	8	rec	ラマシュトゥ	Lamashtu	claude	name #79
+0.BIN:458E4	0.BIN	458E4	8	rec	アプスー	Apsu	claude	name #80
+0.BIN:458ED	0.BIN	458ED	8	rec	スイームルグ	Simurgh	claude	name #81
+0.BIN:458F6	0.BIN	458F6	8	rec	ラシュヌ	Rashnu	claude	name #82
+0.BIN:458FF	0.BIN	458FF	8	rec	エギール	Aegir	claude	name #83
+0.BIN:45908	0.BIN	45908	8	rec	カマエル	Camael	claude	name #84
+0.BIN:45911	0.BIN	45911	8	rec	ウリエル	Uriel	claude	name #85
+0.BIN:4591A	0.BIN	4591A	8	rec	ラファエル	Raphael	claude	name #86
+0.BIN:45923	0.BIN	45923	8	rec	ガブリエル	Gabriel	claude	name #87
+0.BIN:4592C	0.BIN	4592C	8	rec	ミカエル	Michael	claude	name #88
+0.BIN:45935	0.BIN	45935	8	rec	エンジェル	Angel	claude	name #89
+0.BIN:4593E	0.BIN	4593E	8	rec	アークエンジェル	Archangl	claude	name #90
+0.BIN:45947	0.BIN	45947	8	rec	パワー	Power	claude	name #91
+0.BIN:45950	0.BIN	45950	8	rec	ゔァーチャー	Virtue	claude	name #92
+0.BIN:45959	0.BIN	45959	8	rec	ドミニオン	Dominion	claude	name #93
+0.BIN:45962	0.BIN	45962	8	rec	ソロネ	Throne	claude	name #94
+0.BIN:4596B	0.BIN	4596B	8	rec	アンカロク	Ankarok	claude	name #95
+0.BIN:45974	0.BIN	45974	8	rec	レオナルド	Leonard	claude	name #96
+0.BIN:4597D	0.BIN	4597D	8	rec	アルケオク	Arkeok	claude	name #97
+0.BIN:45986	0.BIN	45986	8	rec	マルコウル	Marcoul	claude	name #98
+0.BIN:4598F	0.BIN	4598F	8	rec	フラロウス	Flauros	claude	name #99
+0.BIN:45998	0.BIN	45998	8	rec	ハーピー	Harpy	claude	name #100
+0.BIN:459A1	0.BIN	459A1	8	rec	オキュペテー	Ocypete	claude	name #101
+0.BIN:459AA	0.BIN	459AA	8	rec	アエロー	Aello	claude	name #102
+0.BIN:459B3	0.BIN	459B3	8	rec	グリフォン	Gryphon	claude	name #103
+0.BIN:459BC	0.BIN	459BC	8	rec	ガルーダ	Garuda	claude	name #104
+0.BIN:459C5	0.BIN	459C5	8	rec	ヒルデスゔィーニ	Hildsvni	claude	name #105
+0.BIN:459CE	0.BIN	459CE	8	rec	アウドムラ	Audumla	claude	name #106
+0.BIN:459D7	0.BIN	459D7	8	rec	グルトップ	Gulltop	claude	name #107
+0.BIN:459E0	0.BIN	459E0	8	rec	ゲンブ	Genbu	claude	name #108
+0.BIN:459E9	0.BIN	459E9	8	rec	マーライオン	Merlion	claude	name #109
+0.BIN:459F2	0.BIN	459F2	8	rec	バロン	Barong	claude	name #110
+0.BIN:459FB	0.BIN	459FB	8	rec	タンキ	Tanki	claude	name #111
+0.BIN:45A04	0.BIN	45A04	8	rec	テキロ	Tekiro	claude	name #112
+0.BIN:45A0D	0.BIN	45A0D	8	rec	ネコマタ	Nekomata	claude	name #113
+0.BIN:45A16	0.BIN	45A16	8	rec	ラクチャランゴ	Rakchara	claude	name #114
+0.BIN:45A1F	0.BIN	45A1F	8	rec	オルトロス	Orthrus	claude	name #115
+0.BIN:45A28	0.BIN	45A28	8	rec	アールマティ	Armaiti	claude	name #116
+0.BIN:45A31	0.BIN	45A31	8	rec	デメーテル	Demeter	claude	name #117
+0.BIN:45A3A	0.BIN	45A3A	8	rec	ハリティー	Hariti	claude	name #118
+0.BIN:45A43	0.BIN	45A43	8	rec	イシュタル	Ishtar	claude	name #119
+0.BIN:45A4C	0.BIN	45A4C	8	rec	カーリー	Kali	claude	name #120
+0.BIN:45A55	0.BIN	45A55	8	rec	アメノウズメ	Uzume	claude	name #121
+0.BIN:45A5E	0.BIN	45A5E	8	rec	アフロディテ	Aphrdite	claude	name #122
+0.BIN:45A67	0.BIN	45A67	8	rec	スクルド	Skuld	claude	name #123
+0.BIN:45A70	0.BIN	45A70	8	rec	フレイヤ	Freya	claude	name #124
+0.BIN:45A79	0.BIN	45A79	8	rec	ベルザンディ	Verdandi	claude	name #125
+0.BIN:45A82	0.BIN	45A82	8	rec	ラクシュミ	Lakshmi	claude	name #126
+0.BIN:45A8B	0.BIN	45A8B	8	rec	メデイア	Medea	claude	name #127
+0.BIN:45A94	0.BIN	45A94	8	rec	ヒュッポリッテ	Hippolyt	claude	name #128
+0.BIN:45A9D	0.BIN	45A9D	8	rec	エリニュス	Erinyes	claude	name #129
+0.BIN:45AA6	0.BIN	45AA6	8	rec	ウルズ	Urd	claude	name #130
+0.BIN:45AAF	0.BIN	45AAF	8	rec	ランダ	Rangda	claude	name #131
+0.BIN:45AB8	0.BIN	45AB8	8	rec	ガンガー	Ganga	claude	name #132
+0.BIN:45AC1	0.BIN	45AC1	8	rec	トギュウ	Togyu	claude	name #133
+0.BIN:45ACA	0.BIN	45ACA	8	rec	ケツアルカトル	Quetzal	claude	name #134
+0.BIN:45AD3	0.BIN	45AD3	8	rec	ゔリトラ	Vritra	claude	name #135
+0.BIN:45ADC	0.BIN	45ADC	8	rec	ジョカ	Nuwa	claude	name #136
+0.BIN:45AE5	0.BIN	45AE5	8	rec	アナンタ	Ananta	claude	name #137
+0.BIN:45AEE	0.BIN	45AEE	8	rec	ナーガ	Naga	claude	name #138
+0.BIN:45AF7	0.BIN	45AF7	8	rec	ラドン	Ladon	claude	name #139
+0.BIN:45B00	0.BIN	45B00	8	rec	ヤマタノオロチ	Orochi	claude	name #140
+0.BIN:45B09	0.BIN	45B09	8	rec	フギ	Fuxi	claude	name #141
+0.BIN:45B12	0.BIN	45B12	8	rec	ウロボロス	Ouroboro	claude	name #142
+0.BIN:45B1B	0.BIN	45B1B	8	rec	コカトライス	Cockatrc	claude	name #143
+0.BIN:45B24	0.BIN	45B24	8	rec	バジリスク	Basilisk	claude	name #144
+0.BIN:45B2D	0.BIN	45B2D	8	rec	カリュブデス	Charybds	claude	name #145
+0.BIN:45B36	0.BIN	45B36	8	rec	ヨルムンガルド	Jormungd	claude	name #146
+0.BIN:45B3F	0.BIN	45B3F	8	rec	トン	Tong	claude	name #147
+0.BIN:45B48	0.BIN	45B48	8	rec	アプサラス	Apsaras	claude	name #148
+0.BIN:45B51	0.BIN	45B51	8	rec	エインヘリャル	Einherjr	claude	name #149
+0.BIN:45B5A	0.BIN	45B5A	8	rec	クーフーリン	CuChulin	claude	name #150
+0.BIN:45B63	0.BIN	45B63	8	rec	イフリート	Ifrit	claude	name #151
+0.BIN:45B6C	0.BIN	45B6C	8	rec	ガネーシャ	Ganesha	claude	name #152
+0.BIN:45B75	0.BIN	45B75	8	rec	ピクシー	Pixie	claude	name #153
+0.BIN:45B7E	0.BIN	45B7E	8	rec	ジャックフロスト	JackFrst	claude	name #154
+0.BIN:45B87	0.BIN	45B87	8	rec	ジャックランタン	JackLntn	claude	name #155
+0.BIN:45B90	0.BIN	45B90	8	rec	エルフ	Elf	claude	name #156
+0.BIN:45B99	0.BIN	45B99	8	rec	ティターニア	Titania	claude	name #157
+0.BIN:45BA2	0.BIN	45BA2	8	rec	アルベリッヒ	Alberich	claude	name #158
+0.BIN:45BAB	0.BIN	45BAB	8	rec	ブラウニー	Brownie	claude	name #159
+0.BIN:45BB4	0.BIN	45BB4	8	rec	ドワーフ	Dwarf	claude	name #160
+0.BIN:45BBD	0.BIN	45BBD	8	rec	ミーミル	Mimir	claude	name #161
+0.BIN:45BC6	0.BIN	45BC6	8	rec	サルタヒコ	Sarutahk	claude	name #162
+0.BIN:45BCF	0.BIN	45BCF	8	rec	フルングニル	Hrungnir	claude	name #163
+0.BIN:45BD8	0.BIN	45BD8	8	rec	アグニ	Agni	claude	name #164
+0.BIN:45BE1	0.BIN	45BE1	8	rec	セイレンタイショ	SeirenT.	claude	name #165
+0.BIN:45BEA	0.BIN	45BEA	8	rec	インドラ	Indra	claude	name #166
+0.BIN:45BF3	0.BIN	45BF3	8	rec	オーディン	Odin	claude	name #167
+0.BIN:45BFC	0.BIN	45BFC	8	rec	ゔィシュヌ	Vishnu	claude	name #168
+0.BIN:45C05	0.BIN	45C05	8	rec	キイチホウゲン	Kiichi	claude	name #169
+0.BIN:45C0E	0.BIN	45C0E	8	rec	ファーガス	Fergus	claude	name #170
+0.BIN:45C17	0.BIN	45C17	8	rec	キンナラ	Kinnara	claude	name #171
+0.BIN:45C20	0.BIN	45C20	8	rec	セイテンタイセイ	SeitenT.	claude	name #172
+0.BIN:45C29	0.BIN	45C29	8	rec	シゔァ	Shiva	claude	name #173
+0.BIN:45C32	0.BIN	45C32	8	rec	モムノフ	Mononofu	claude	name #174
+0.BIN:45C3B	0.BIN	45C3B	8	rec	ゴズキ	Gozuki	claude	name #175
+0.BIN:45C44	0.BIN	45C44	8	rec	プルシキ	Purski	claude	name #176
+0.BIN:45C4D	0.BIN	45C4D	8	rec	テンホウゲンスイ	TenpoGen	claude	name #177
+0.BIN:45C56	0.BIN	45C56	8	rec	メズキ	Mezuki	claude	name #178
+0.BIN:45C5F	0.BIN	45C5F	8	rec	ギュウマオウ	Gyumao	claude	name #179
+0.BIN:45C68	0.BIN	45C68	8	rec	コウジン	Kojin	claude	name #180
+0.BIN:45C71	0.BIN	45C71	8	rec	グレムリン	Gremlin	claude	name #181
+0.BIN:45C7A	0.BIN	45C7A	8	rec	インキュバス	Incubus	claude	name #182
+0.BIN:45C83	0.BIN	45C83	8	rec	サキュバス	Succubus	claude	name #183
+0.BIN:45C8C	0.BIN	45C8C	8	rec	ゔァンパイア	Vampire	claude	name #184
+0.BIN:45C95	0.BIN	45C95	8	rec	ヒュプノス	Hypnos	claude	name #185
+0.BIN:45C9E	0.BIN	45C9E	8	rec	ブルーマン	BlueMan	claude	name #186
+0.BIN:45CA7	0.BIN	45CA7	8	rec	ブロッケン	Brocken	claude	name #187
+0.BIN:45CB0	0.BIN	45CB0	8	rec	チュパカブラ	Chupacbr	claude	name #188
+0.BIN:45CB9	0.BIN	45CB9	8	rec	インフェルノ	Inferno	claude	name #189
+0.BIN:45CC2	0.BIN	45CC2	8	rec	レギオン	Legion	claude	name #190
+0.BIN:45CCB	0.BIN	45CCB	8	rec	ノーム	Gnome	claude	name #191
+0.BIN:45CD4	0.BIN	45CD4	8	rec	シルフ	Sylph	claude	name #192
+0.BIN:45CDD	0.BIN	45CDD	8	rec	ウンディーネ	Undine	claude	name #193
+0.BIN:45CE6	0.BIN	45CE6	8	rec	サラマンダー	Salamndr	claude	name #194
+0.BIN:45CEF	0.BIN	45CEF	8	rec	マッドライダー	MadRider	claude	name #195
+0.BIN:45CF8	0.BIN	45CF8	8	rec	ロードウォリアー	RoadWarr	claude	name #196
+0.BIN:45D01	0.BIN	45D01	8	rec	じえいたいへいし	SDF Sldr	claude	name #197
+0.BIN:45D0A	0.BIN	45D0A	8	rec	じえいたい2さ	SDF Cmdr	claude	name #198
+0.BIN:45D13	0.BIN	45D13	8	rec	TTCー18しき	TTC-18	claude	name #199
+0.BIN:45D1C	0.BIN	45D1C	8	rec	サイボーグ1	Cyborg1	claude	name #200
+0.BIN:45D25	0.BIN	45D25	8	rec	SGR20S			name #201
+0.BIN:45D2E	0.BIN	45D2E	8	rec	サイコ	Psycho	claude	name #202
+0.BIN:45D37	0.BIN	45D37	8	rec	サイコ	Psycho	claude	name #203
+0.BIN:45D40	0.BIN	45D40	8	rec	キャット	Cat	claude	name #204
+0.BIN:45D49	0.BIN	45D49	8	rec	カラス	Crow	claude	name #205
+0.BIN:45D52	0.BIN	45D52	8	rec	はくいのおとこ	LabCoat	claude	name #206
+0.BIN:45D5B	0.BIN	45D5B	8	rec	アステカしんかん	Priest	claude	name #207
+0.BIN:45D64	0.BIN	45D64	8	rec	スペインへい	Spaniard	claude	name #208
+0.BIN:45D6D	0.BIN	45D6D	8	rec	ジョーカー	Joker	claude	name #209
+0.BIN:45D76	0.BIN	45D76	8	rec	ケルベロス	Cerberus	claude	name #210
+0.BIN:45D7F	0.BIN	45D7F	8	rec	きょうじゅ	Professr	claude	name #211
+0.BIN:45D88	0.BIN	45D88	8	rec	ナイト	Knight	claude	name #212
+0.BIN:45D91	0.BIN	45D91	8	rec	アシャ	Asha	claude	name #213
+0.BIN:45D9A	0.BIN	45D9A	8	rec	クシャスラ	Kshathra	claude	name #214
+0.BIN:45DA3	0.BIN	45DA3	8	rec	アムルタワート	Ameretat	claude	name #215
+0.BIN:45DAC	0.BIN	45DAC	8	rec	サイボーグ2	Cyborg2	claude	name #216
+0.BIN:45DB5	0.BIN	45DB5	8	rec	21MLC			name #217
+0.BIN:45DBE	0.BIN	45DBE	8	rec	アザエル	Azazel	claude	name #218
+0.BIN:45DC7	0.BIN	45DC7	8	rec	マステマ	Mastema	claude	name #219
+0.BIN:45DD0	0.BIN	45DD0	8	rec	トンプソン	Thompson	claude	name #220
+0.BIN:45DD9	0.BIN	45DD9	8	rec	ユルング	Yurlungr	claude	name #221
+0.BIN:45DE2	0.BIN	45DE2	8	rec	オシリス	Osiris	claude	name #222
+0.BIN:45DEB	0.BIN	45DEB	8	rec	エージェント	Agent	claude	name #223
+0.BIN:45DF4	0.BIN	45DF4	8	rec	トンプソン	Thompson	claude	name #224
+0.BIN:45DFD	0.BIN	45DFD	8	rec	トンプソン	Thompson	claude	name #225
+0.BIN:45E06	0.BIN	45E06	8	rec	サタデー	Saturday	claude	name #226
+0.BIN:45E0F	0.BIN	45E0F	8	rec	モレク	Moloch	claude	name #227
+0.BIN:45E18	0.BIN	45E18	8	rec	ムハマド	Muhammad	claude	name #228
+0.BIN:45E21	0.BIN	45E21	8	rec	スサノオ	Susanoo	claude	name #229
+0.BIN:45E2A	0.BIN	45E2A	8	rec	ゼウス	Zeus	claude	name #230
+0.BIN:45E33	0.BIN	45E33	8	rec	アフラ・マズダ	Ahura M.	claude	name #231
+0.BIN:45E3C	0.BIN	45E3C	8	rec	アナト	Anat	claude	name #232
+0.BIN:45E45	0.BIN	45E45	8	rec	さとし	Satoshi	claude	name #233
+0.BIN:45E4E	0.BIN	45E4E	8	rec	さとし	Satoshi	claude	name #234
+0.BIN:45E57	0.BIN	45E57	8	rec	アンラ・マンユ	Angra M.	claude	name #235
+0.BIN:45E60	0.BIN	45E60	8	rec	さわき	Sawaki	claude	name #236
+0.BIN:45E69	0.BIN	45E69	8	rec	ドゥルジ	Druj	claude	name #237
+0.BIN:45E72	0.BIN	45E72	8	rec	アシャ	Asha	claude	name #238
+0.BIN:45E7B	0.BIN	45E7B	8	rec	サルワ	Saurva	claude	name #239
+0.BIN:45E84	0.BIN	45E84	8	rec	クシャスラ	Kshathra	claude	name #240
+0.BIN:45E8D	0.BIN	45E8D	8	rec	ザリチェ	Zairich	claude	name #241
+0.BIN:45E96	0.BIN	45E96	8	rec	アムルタワート	Ameretat	claude	name #242
+0.BIN:45E9F	0.BIN	45E9F	8	rec	さわき	Sawaki	claude	name #243
+0.BIN:45EA8	0.BIN	45EA8	8	rec	アバドン	Abaddon	claude	name #244
+0.BIN:45EB1	0.BIN	45EB1	8	rec	アエーシャマ	Aeshma	claude	name #245
+0.BIN:45EBA	0.BIN	45EBA	8	rec	さわき	Sawaki	claude	name #246
+0.BIN:45EC3	0.BIN	45EC3	8	rec	さとし	Satoshi	claude	name #247
+0.BIN:45ECC	0.BIN	45ECC	8	rec	ダークベビー	DarkBaby	claude	name #248
+0.BIN:45ED5	0.BIN	45ED5	8	rec	アテナ	Athena	claude	name #249
+0.BIN:45EDE	0.BIN	45EDE	8	rec	ムハマド	Muhammad	claude	name #250
+0.BIN:45EE7	0.BIN	45EE7	8	rec	アタックナイフ	AtkKnife	claude	name #251
+0.BIN:45EF0	0.BIN	45EF0	8	rec	メタルブレード	MtlBlade	claude	name #252
+0.BIN:45EF9	0.BIN	45EF9	8	rec	バスタードソード	Bastard	claude	name #253
+0.BIN:45F02	0.BIN	45F02	8	rec	れんきのけん	Renki	claude	name #254
+0.BIN:45F0B	0.BIN	45F0B	8	rec	くさなぎのつるぎ	Kusanagi	claude	name #255
+0.BIN:45F14	0.BIN	45F14	8	rec	オメガソード	OmegaSwd	claude	name #256
+0.BIN:45F1D	0.BIN	45F1D	8	rec	こだいのけん	Ancient	claude	name #257
+0.BIN:45F26	0.BIN	45F26	8	rec	バタフライエッジ	Btrfly	claude	name #258
+0.BIN:45F2F	0.BIN	45F2F	8	rec	フロストナイフ	FrostKnf	claude	name #259
+0.BIN:45F38	0.BIN	45F38	8	rec	グラディウス	Gladius	claude	name #260
+0.BIN:45F41	0.BIN	45F41	8	rec	ソニックブレード	SonicBld	claude	name #261
+0.BIN:45F4A	0.BIN	45F4A	8	rec	アセイミーナイフ	Athame	claude	name #262
+0.BIN:45F53	0.BIN	45F53	8	rec	インテリソード	IntelSwd	claude	name #263
+0.BIN:45F5C	0.BIN	45F5C	8	rec	プラズマソード	PlasmSwd	claude	name #264
+0.BIN:45F65	0.BIN	45F65	8	rec	デュランデル	Durandal	claude	name #265
+0.BIN:45F6E	0.BIN	45F6E	8	rec	フランベルジェ	Flamberg	claude	name #266
+0.BIN:45F77	0.BIN	45F77	8	rec	クレイモアー	Claymore	claude	name #267
+0.BIN:45F80	0.BIN	45F80	8	rec	ピクシーナイフ	PixieKnf	claude	name #268
+0.BIN:45F89	0.BIN	45F89	8	rec	ナイトオブナイト	NightKnt	claude	name #269
+0.BIN:45F92	0.BIN	45F92	8	rec	アルファソード	AlphaSwd	claude	name #270
+0.BIN:45F9B	0.BIN	45F9B	8	rec	ルナブレイド	LunaBld	claude	name #271
+0.BIN:45FA4	0.BIN	45FA4	8	rec	ソルブレイド	SolBlade	claude	name #272
+0.BIN:45FAD	0.BIN	45FAD	8	rec	フォトンソード	PhotnSwd	claude	name #273
+0.BIN:45FB6	0.BIN	45FB6	8	rec	ファルシオン	Falchion	claude	name #274
+0.BIN:45FBF	0.BIN	45FBF	8	rec	ゴーゴーヘブン!	GoGoHvn!	claude	name #275
+0.BIN:45FC8	0.BIN	45FC8	8	rec	あめのむらくも	Murakumo	claude	name #276
+0.BIN:45FD1	0.BIN	45FD1	8	rec	ケーニッヒマルク	Konigsmk	claude	name #277
+0.BIN:45FDA	0.BIN	45FDA	8	rec	カムイのけん	KamuiSwd	claude	name #278
+0.BIN:45FE3	0.BIN	45FE3	8	rec	ベーシング	Basing	claude	name #279
+0.BIN:45FEC	0.BIN	45FEC	8	rec	エクスカリバー	Excalibr	claude	name #280
+0.BIN:45FF5	0.BIN	45FF5	8	rec	さびついたオノ	RustyAxe	claude	name #281
+0.BIN:45FFE	0.BIN	45FFE	8	rec	レプリカアックス	ReplcAxe	claude	name #282
+0.BIN:46007	0.BIN	46007	8	rec	グラマラスアクス	GlamAxe	claude	name #283
+0.BIN:46010	0.BIN	46010	8	rec	バトルアックス	BtlAxe	claude	name #284
+0.BIN:46019	0.BIN	46019	8	rec	ウォーハンマー	WarHammr	claude	name #285
+0.BIN:46022	0.BIN	46022	8	rec	ルーゔェカイザー	Loewe	claude	name #286
+0.BIN:4602B	0.BIN	4602B	8	rec	ハンドアックス	HandAxe	claude	name #287
+0.BIN:46034	0.BIN	46034	8	rec	ながえとう	Naginata	claude	name #288
+0.BIN:4603D	0.BIN	4603D	8	rec	ロッコバーアクス	Lochaber	claude	name #289
+0.BIN:46046	0.BIN	46046	8	rec	グレイゔ	Glaive	claude	name #290
+0.BIN:4604F	0.BIN	4604F	8	rec	びせんとう	Bisento	claude	name #291
+0.BIN:46058	0.BIN	46058	8	rec	ポールアックス	PoleAxe	claude	name #292
+0.BIN:46061	0.BIN	46061	8	rec	フォチャード	Fauchard	claude	name #293
+0.BIN:4606A	0.BIN	4606A	8	rec	ジャドバラアクス	Jadbala	claude	name #294
+0.BIN:46073	0.BIN	46073	8	rec	タバール	Tabar	claude	name #295
+0.BIN:4607C	0.BIN	4607C	8	rec	こんてんさい	KontnSai	claude	name #296
+0.BIN:46085	0.BIN	46085	8	rec	ウォーピック	WarPick	claude	name #297
+0.BIN:4608E	0.BIN	4608E	8	rec	ビーストソウル	BstSoul	claude	name #298
+0.BIN:46097	0.BIN	46097	8	rec	クレセントアクス	Crescent	claude	name #299
+0.BIN:460A0	0.BIN	460A0	8	rec	ブルアックス	BullAxe	claude	name #300
+0.BIN:460A9	0.BIN	460A9	8	rec	タバルジン	Tabarzin	claude	name #301
+0.BIN:460B2	0.BIN	460B2	8	rec	アースゲイル	EarthGal	claude	name #302
+0.BIN:460BB	0.BIN	460BB	8	rec	ザグナル	Zaghnal	claude	name #303
+0.BIN:460C4	0.BIN	460C4	8	rec	ゴールドハンマー	GoldHmr	claude	name #304
+0.BIN:460CD	0.BIN	460CD	8	rec	アースシェイカー	EarthShk	claude	name #305
+0.BIN:460D6	0.BIN	460D6	8	rec	じろうとう	Jiroutou	claude	name #306
+0.BIN:460DF	0.BIN	460DF	8	rec	ロムパイア	Rhomphai	claude	name #307
+0.BIN:460E8	0.BIN	460E8	8	rec	ベクドファルコン	BecFaucn	claude	name #308
+0.BIN:460F1	0.BIN	460F1	8	rec	くびかりスプーン	HeadSpn	claude	name #309
+0.BIN:460FA	0.BIN	460FA	8	rec	ハルパー	Harpe	claude	name #310
+0.BIN:46103	0.BIN	46103	8	rec	ナックルダスター	KnDuster	claude	name #311
+0.BIN:4610C	0.BIN	4610C	8	rec	てっこうかぎ	IrnTalon	claude	name #312
+0.BIN:46115	0.BIN	46115	8	rec	スケアクロー	ScareClw	claude	name #313
+0.BIN:4611E	0.BIN	4611E	8	rec	カーボンクロー	CarbnClw	claude	name #314
+0.BIN:46127	0.BIN	46127	8	rec	ようちょうのつめ	HrpTalon	claude	name #315
+0.BIN:46130	0.BIN	46130	8	rec	メリケンクロー	Merikan	claude	name #316
+0.BIN:46139	0.BIN	46139	8	rec	ダマスカスハンド	Damascus	claude	name #317
+0.BIN:46142	0.BIN	46142	8	rec	スカルネイル	SkulNail	claude	name #318
+0.BIN:4614B	0.BIN	4614B	8	rec	げつがけん	Moonfang	claude	name #319
+0.BIN:46154	0.BIN	46154	8	rec	ジュル	Jur	claude	name #320
+0.BIN:4615D	0.BIN	4615D	8	rec	アイアンクロー	IronClaw	claude	name #321
+0.BIN:46166	0.BIN	46166	8	rec	パワーナックル	PwrKnckl	claude	name #322
+0.BIN:4616F	0.BIN	4616F	8	rec	ビチャハウ	Bichawa	claude	name #323
+0.BIN:46178	0.BIN	46178	8	rec	セスタス	Cestus	claude	name #324
+0.BIN:46181	0.BIN	46181	8	rec	ゴリアテ	Goliath	claude	name #325
+0.BIN:4618A	0.BIN	4618A	8	rec	リッパークロー	RipprClw	claude	name #326
+0.BIN:46193	0.BIN	46193	8	rec	バグナグ	BaghNakh	claude	name #327
+0.BIN:4619C	0.BIN	4619C	8	rec	くまごろし	BearKill	claude	name #328
+0.BIN:461A5	0.BIN	461A5	8	rec	しぼえんおうえつ	Shibo	claude	name #329
+0.BIN:461AE	0.BIN	461AE	8	rec	シザーハンズ	Scissors	claude	name #330
+0.BIN:461B7	0.BIN	461B7	8	rec	ワイヤークロー	WireClaw	claude	name #331
+0.BIN:461C0	0.BIN	461C0	8	rec	サウザンドハンズ	1000Hand	claude	name #332
+0.BIN:461C9	0.BIN	461C9	8	rec	スターナックル	StarKnck	claude	name #333
+0.BIN:461D2	0.BIN	461D2	8	rec	グローリークロー	GloryClw	claude	name #334
+0.BIN:461DB	0.BIN	461DB	8	rec	ダークネイル	DarkNail	claude	name #335
+0.BIN:461E4	0.BIN	461E4	8	rec	カイザーナックル	KaisrKnk	claude	name #336
+0.BIN:461ED	0.BIN	461ED	8	rec	どりゅうそう	DrgnClaw	claude	name #337
+0.BIN:461F6	0.BIN	461F6	8	rec	けんこんけん	Kenkon	claude	name #338
+0.BIN:461FF	0.BIN	461FF	8	rec	デーモンクロー	DemonClw	claude	name #339
+0.BIN:46208	0.BIN	46208	8	rec	ゴッドハンド	GodHand	claude	name #340
+0.BIN:46211	0.BIN	46211	8	rec	サリッサ	Sarissa	claude	name #341
+0.BIN:4621A	0.BIN	4621A	8	rec	ボーンパイク	BonePike	claude	name #342
+0.BIN:46223	0.BIN	46223	8	rec	ランス	Lance	claude	name #343
+0.BIN:4622C	0.BIN	4622C	8	rec	バイタルランス	VitLance	claude	name #344
+0.BIN:46235	0.BIN	46235	8	rec	マーズアタック	MarsAtk	claude	name #345
+0.BIN:4623E	0.BIN	4623E	8	rec	ロンギヌス	Longinus	claude	name #346
+0.BIN:46247	0.BIN	46247	8	rec	ランカ	Lanka	claude	name #347
+0.BIN:46250	0.BIN	46250	8	rec	コンタス	Kontos	claude	name #348
+0.BIN:46259	0.BIN	46259	8	rec	おおみやり	OmiSpear	claude	name #349
+0.BIN:46262	0.BIN	46262	8	rec	ナーガのやり	NagaSpr	claude	name #350
+0.BIN:4626B	0.BIN	4626B	8	rec	げつがさん	MoonSpr	claude	name #351
+0.BIN:46274	0.BIN	46274	8	rec	フュスキーナ	Fuscina	claude	name #352
+0.BIN:4627D	0.BIN	4627D	8	rec	ハルバード	Halberd	claude	name #353
+0.BIN:46286	0.BIN	46286	8	rec	にほんごう	Nihongo	claude	name #354
+0.BIN:4628F	0.BIN	4628F	8	rec	ショゔスリ	Sovnya	claude	name #355
+0.BIN:46298	0.BIN	46298	8	rec	かせんそう	FireSpr	claude	name #356
+0.BIN:462A1	0.BIN	462A1	8	rec	ダイヤランス	DiaLance	claude	name #357
+0.BIN:462AA	0.BIN	462AA	8	rec	ほうぞういん	Hozoin	claude	name #358
+0.BIN:462B3	0.BIN	462B3	8	rec	パルチザン	Partisan	claude	name #359
+0.BIN:462BC	0.BIN	462BC	8	rec	フォボス	Phobos	claude	name #360
+0.BIN:462C5	0.BIN	462C5	8	rec	ダークランス	DkLance	claude	name #361
+0.BIN:462CE	0.BIN	462CE	8	rec	じゃぼう	SnakePik	claude	name #362
+0.BIN:462D7	0.BIN	462D7	8	rec	モータードライブ	MotorDrv	claude	name #363
+0.BIN:462E0	0.BIN	462E0	8	rec	ダイモス	Deimos	claude	name #364
+0.BIN:462E9	0.BIN	462E9	8	rec	ホーリーランス	HolyLnc	claude	name #365
+0.BIN:462F2	0.BIN	462F2	8	rec	トライデント	Trident	claude	name #366
+0.BIN:462FB	0.BIN	462FB	8	rec	とんぼきり	Tonbogir	claude	name #367
+0.BIN:46304	0.BIN	46304	8	rec	まてんろう	Matenrou	claude	name #368
+0.BIN:4630D	0.BIN	4630D	8	rec	さんせんとう	3PtStaff	claude	name #369
+0.BIN:46316	0.BIN	46316	8	rec	ドラゴンランス	DrgLance	claude	name #370
+0.BIN:4631F	0.BIN	4631F	8	rec	チャンスン	Changsun	claude	name #371
+0.BIN:46328	0.BIN	46328	8	rec	メイス	Mace	claude	name #372
+0.BIN:46331	0.BIN	46331	8	rec	ヘビーメイス	HvyMace	claude	name #373
+0.BIN:4633A	0.BIN	4633A	8	rec	ねこじゃらし	Foxtail	claude	name #374
+0.BIN:46343	0.BIN	46343	8	rec	ドルイドのつえ	DruidStf	claude	name #375
+0.BIN:4634C	0.BIN	4634C	8	rec	スペルマスター	SpellMst	claude	name #376
+0.BIN:46355	0.BIN	46355	8	rec	ウィッチロッド	WitchRod	claude	name #377
+0.BIN:4635E	0.BIN	4635E	8	rec	ほのおのつえ	FlameStf	claude	name #378
+0.BIN:46367	0.BIN	46367	8	rec	マジカルロッド	MagicRod	claude	name #379
+0.BIN:46370	0.BIN	46370	8	rec	ふくしゅうのつえ	Revenge	claude	name #380
+0.BIN:46379	0.BIN	46379	8	rec	しょうげきのつえ	ShockStf	claude	name #381
+0.BIN:46382	0.BIN	46382	8	rec	クルスセプター	CrossScp	claude	name #382
+0.BIN:4638B	0.BIN	4638B	8	rec	ローゼスロッド	RosesRod	claude	name #383
+0.BIN:46394	0.BIN	46394	8	rec	ネコマタスタンプ	Nekomata	claude	name #384
+0.BIN:4639D	0.BIN	4639D	8	rec	メデューサのつえ	MedusaSt	claude	name #385
+0.BIN:463A6	0.BIN	463A6	8	rec	どうまんのつえ	DomanStf	claude	name #386
+0.BIN:463AF	0.BIN	463AF	8	rec	カロンのつえ	CharonSt	claude	name #387
+0.BIN:463B8	0.BIN	463B8	8	rec	きょうこうのつえ	PanicStf	claude	name #388
+0.BIN:463C1	0.BIN	463C1	8	rec	ヒーリングロッド	HealRod	claude	name #389
+0.BIN:463CA	0.BIN	463CA	8	rec	にょいぼう	Nyoibo	claude	name #390
+0.BIN:463D3	0.BIN	463D3	8	rec	ガンバンテイン	Gambant	claude	name #391
+0.BIN:463DC	0.BIN	463DC	8	rec	ザ・マジシャン	Magician	claude	name #392
+0.BIN:463E5	0.BIN	463E5	8	rec	ルーンスタッフ	RuneStf	claude	name #393
+0.BIN:463EE	0.BIN	463EE	8	rec	テュルソス	Thyrsus	claude	name #394
+0.BIN:463F7	0.BIN	463F7	8	rec	サイズオブデス	Scythe	claude	name #395
+0.BIN:46400	0.BIN	46400	8	rec	だしんべん	Dashinbn	claude	name #396
+0.BIN:46409	0.BIN	46409	8	rec	デスクラブ	DeathClb	claude	name #397
+0.BIN:46412	0.BIN	46412	8	rec	マーリンのつえ	MerlinSt	claude	name #398
+0.BIN:4641B	0.BIN	4641B	8	rec	しゆうさい	Shiyusai	claude	name #399
+0.BIN:46424	0.BIN	46424	8	rec	レザーウィップ	LthrWhip	claude	name #400
+0.BIN:4642D	0.BIN	4642D	8	rec	サーカスウィップ	CircsWhp	claude	name #401
+0.BIN:46436	0.BIN	46436	8	rec	ケブラーウィップ	KevlrWhp	claude	name #402
+0.BIN:4643F	0.BIN	4643F	8	rec	チェーンウィップ	ChainWhp	claude	name #403
+0.BIN:46448	0.BIN	46448	8	rec	タイトロープ	Tightrop	claude	name #404
+0.BIN:46451	0.BIN	46451	8	rec	パーティリボン	Ribbon	claude	name #405
+0.BIN:4645A	0.BIN	4645A	8	rec	くものいと	Spider	claude	name #406
+0.BIN:46463	0.BIN	46463	8	rec	りゅうせいすい	Meteor	claude	name #407
+0.BIN:4646C	0.BIN	4646C	8	rec	ハードワイヤー	HardWire	claude	name #408
+0.BIN:46475	0.BIN	46475	8	rec	クィーンビュート	QueenWhp	claude	name #409
+0.BIN:4647E	0.BIN	4647E	8	rec	インディウィップ	IndyWhip	claude	name #410
+0.BIN:46487	0.BIN	46487	8	rec	ナインテイル	9Tails	claude	name #411
+0.BIN:46490	0.BIN	46490	8	rec	ローズウィップ	RoseWhip	claude	name #412
+0.BIN:46499	0.BIN	46499	8	rec	ふあっそぉ	Fuasso	claude	name #413
+0.BIN:464A2	0.BIN	464A2	8	rec	エレキワイヤー	ElecWire	claude	name #414
+0.BIN:464AB	0.BIN	464AB	8	rec	レージング	Leyding	claude	name #415
+0.BIN:464B4	0.BIN	464B4	8	rec	こうきんじょう	GoldBond	claude	name #416
+0.BIN:464BD	0.BIN	464BD	8	rec	ソウルブレイク	SoulBrk	claude	name #417
+0.BIN:464C6	0.BIN	464C6	8	rec	ドローミチェーン	DromiChn	claude	name #418
+0.BIN:464CF	0.BIN	464CF	8	rec	ジーグビュート	SiegWhip	claude	name #419
+0.BIN:464D8	0.BIN	464D8	8	rec	コーカサスロープ	Caucasus	claude	name #420
+0.BIN:464E1	0.BIN	464E1	8	rec	キルウィップ	KillWhip	claude	name #421
+0.BIN:464EA	0.BIN	464EA	8	rec	Zウィップ	Z Whip	claude	name #422
+0.BIN:464F3	0.BIN	464F3	8	rec	ローズマリー	Rosemary	claude	name #423
+0.BIN:464FC	0.BIN	464FC	8	rec	きんべん	GoldWhip	claude	name #424
+0.BIN:46505	0.BIN	46505	8	rec	グレイプニル	Gleipnir	claude	name #425
+0.BIN:4650E	0.BIN	4650E	8	rec	らいこうべん	ThndrWhp	claude	name #426
+0.BIN:46517	0.BIN	46517	8	rec	オーラビュート	AuraWhip	claude	name #427
+0.BIN:46520	0.BIN	46520	8	rec	ネビュラチェーン	Nebula	claude	name #428
+0.BIN:46529	0.BIN	46529	8	rec	プロミネンス	Promince	claude	name #429
+0.BIN:46532	0.BIN	46532	8	rec	ニューナンブ	NewNambu	claude	name #430
+0.BIN:4653B	0.BIN	4653B	8	rec	デザートイーグル	DsEagle	claude	name #431
+0.BIN:46544	0.BIN	46544	8	rec	ヤングガン	YoungGun	claude	name #432
+0.BIN:4654D	0.BIN	4654D	8	rec	トップガン	TopGun	claude	name #433
+0.BIN:46556	0.BIN	46556	8	rec	たねがしま	Tanegash	claude	name #434
+0.BIN:4655F	0.BIN	4655F	8	rec	ドラグノフ	Dragunov	claude	name #435
+0.BIN:46568	0.BIN	46568	8	rec	マックイン	MACGun	claude	name #436
+0.BIN:46571	0.BIN	46571	8	rec	しゅんらいじゅう	ThndrGun	claude	name #437
+0.BIN:4657A	0.BIN	4657A	8	rec	モスバーグ	Mossberg	claude	name #438
+0.BIN:46583	0.BIN	46583	8	rec	バーストライザー	BurstRsr	claude	name #439
+0.BIN:4658C	0.BIN	4658C	8	rec	ヘルレイン	HellRain	claude	name #440
+0.BIN:46595	0.BIN	46595	8	rec	スレイブハンター	SlvHuntr	claude	name #441
+0.BIN:4659E	0.BIN	4659E	8	rec	こそんほう	Koson	claude	name #442
+0.BIN:465A7	0.BIN	465A7	8	rec	タンクゲーベル	TankGwhr	claude	name #443
+0.BIN:465B0	0.BIN	465B0	8	rec	バイバスター	ByeBustr	claude	name #444
+0.BIN:465B9	0.BIN	465B9	8	rec	ミラージュキラー	MirageKl	claude	name #445
+0.BIN:465C2	0.BIN	465C2	8	rec	デススナイパー	DthSnipr	claude	name #446
+0.BIN:465CB	0.BIN	465CB	8	rec	ごらいしんき	Thunder	claude	name #447
+0.BIN:465D4	0.BIN	465D4	8	rec	クラウドバスター	CldBustr	claude	name #448
+0.BIN:465DD	0.BIN	465DD	8	rec	エアブレイク	AirBreak	claude	name #449
+0.BIN:465E6	0.BIN	465E6	8	rec	メガグレネード	MegaGren	claude	name #450
+0.BIN:465EF	0.BIN	465EF	8	rec	おうごんじゅう	GoldGun	claude	name #451
+0.BIN:465F8	0.BIN	465F8	8	rec	ターミネーター	Terminat	claude	name #452
+0.BIN:46601	0.BIN	46601	8	rec	メガスマッシャー	MegaSmsh	claude	name #453
+0.BIN:4660A	0.BIN	4660A	8	rec	メギドファイア	Megiddo	claude	name #454
+0.BIN:46613	0.BIN	46613	8	rec	なんばんだらい	Nanban	claude	name #455
+0.BIN:4661C	0.BIN	4661C	8	rec	ブラフマーストラ	Brahmast	claude	name #456
+0.BIN:46625	0.BIN	46625	8	rec	ギガスマッシャー	GigaSmsh	claude	name #457
+0.BIN:4662E	0.BIN	4662E	8	rec	スーパーノバ	Supernov	claude	name #458
+0.BIN:46637	0.BIN	46637	8	rec	ジハード	Jihad	claude	name #459
+0.BIN:46640	0.BIN	46640	8	rec	アーチェリー	Archery	claude	name #460
+0.BIN:46649	0.BIN	46649	8	rec	クロスボウガン	Crossbow	claude	name #461
+0.BIN:46652	0.BIN	46652	8	rec	エルブンボウ	ElvenBow	claude	name #462
+0.BIN:4665B	0.BIN	4665B	8	rec	アルバレスト	Arbalest	claude	name #463
+0.BIN:46664	0.BIN	46664	8	rec	ドキュウ	Dokyu	claude	name #464
+0.BIN:4666D	0.BIN	4666D	8	rec	デストロイヤー	Destroyr	claude	name #465
+0.BIN:46676	0.BIN	46676	8	rec	ハープボウ	HarpBow	claude	name #466
+0.BIN:4667F	0.BIN	4667F	8	rec	ガストラフェテス	Gastrphe	claude	name #467
+0.BIN:46688	0.BIN	46688	8	rec	ホズ・ボウ	HodsBow	claude	name #468
+0.BIN:46691	0.BIN	46691	8	rec	スカイハイ	SkyHigh	claude	name #469
+0.BIN:4669A	0.BIN	4669A	8	rec	しげとうゆみ	Shigetou	claude	name #470
+0.BIN:466A3	0.BIN	466A3	8	rec	シャドウアロー	ShdArrow	claude	name #471
+0.BIN:466AC	0.BIN	466AC	8	rec	サンダーボルト	ThndBolt	claude	name #472
+0.BIN:466B5	0.BIN	466B5	8	rec	ロビンフッド	RobinHd	claude	name #473
+0.BIN:466BE	0.BIN	466BE	8	rec	よりまさのゆみ	Yorimasa	claude	name #474
+0.BIN:466C7	0.BIN	466C7	8	rec	ガンフィッシュ	Gunfish	claude	name #475
+0.BIN:466D0	0.BIN	466D0	8	rec	ビーナスハンター	VenusHnt	claude	name #476
+0.BIN:466D9	0.BIN	466D9	8	rec	エンゼルハート	AnglHrt	claude	name #477
+0.BIN:466E2	0.BIN	466E2	8	rec	リピーター	Repeater	claude	name #478
+0.BIN:466EB	0.BIN	466EB	8	rec	だてんしのゆみ	FallnBow	claude	name #479
+0.BIN:466F4	0.BIN	466F4	8	rec	ディアナクロス	DianaCrs	claude	name #480
+0.BIN:466FD	0.BIN	466FD	8	rec	メルボニアボウ	Melbonia	claude	name #481
+0.BIN:46706	0.BIN	46706	8	rec	ステルスアロー	Stealth	claude	name #482
+0.BIN:4670F	0.BIN	4670F	8	rec	アポロンのゆみ	Apollo	claude	name #483
+0.BIN:46718	0.BIN	46718	8	rec	ライディーン	Raideen	claude	name #484
+0.BIN:46721	0.BIN	46721	8	rec	とうたのゆみ	ToutaBow	claude	name #485
+0.BIN:4672A	0.BIN	4672A	8	rec	ラーマのゆみ	RamaBow	claude	name #486
+0.BIN:46733	0.BIN	46733	8	rec	デスクロス	DthCross	claude	name #487
+0.BIN:4673C	0.BIN	4673C	8	rec	ほしくだき	StarBrkr	claude	name #488
+0.BIN:46745	0.BIN	46745	8	rec	あめのまかこゆみ	Makako	claude	name #489
+0.BIN:4674E	0.BIN	4674E	8	rec	ダート	Dart	claude	name #490
+0.BIN:46757	0.BIN	46757	8	rec	ショートスピアー	ShortSpr	claude	name #491
+0.BIN:46760	0.BIN	46760	8	rec	ツインランサー	TwinLncr	claude	name #492
+0.BIN:46769	0.BIN	46769	8	rec	ピラ	Pilum	claude	name #493
+0.BIN:46772	0.BIN	46772	8	rec	ゲイルジャベリン	GaleJav	claude	name #494
+0.BIN:4677B	0.BIN	4677B	8	rec	カタストロフィ	Catastro	claude	name #495
+0.BIN:46784	0.BIN	46784	8	rec	ソリフェラム	Solifrum	claude	name #496
+0.BIN:4678D	0.BIN	4678D	8	rec	ドラゴンフライ	Dragnfly	claude	name #497
+0.BIN:46796	0.BIN	46796	8	rec	ファラリカ	Falarica	claude	name #498
+0.BIN:4679F	0.BIN	4679F	8	rec	アルバトロス	Albatros	claude	name #499
+0.BIN:467A8	0.BIN	467A8	8	rec	ワイルドスピア	WildSpr	claude	name #500
+0.BIN:467B1	0.BIN	467B1	8	rec	デビルジャベリン	DevilJav	claude	name #501
+0.BIN:467BA	0.BIN	467BA	8	rec	オーメン	Omen	claude	name #502
+0.BIN:467C3	0.BIN	467C3	8	rec	ダブルインパクト	DblImpct	claude	name #503
+0.BIN:467CC	0.BIN	467CC	8	rec	メテオランサー	MeteorLn	claude	name #504
+0.BIN:467D5	0.BIN	467D5	8	rec	ルーンスピア	RuneSpr	claude	name #505
+0.BIN:467DE	0.BIN	467DE	8	rec	トライジャベリン	TriJav	claude	name #506
+0.BIN:467E7	0.BIN	467E7	8	rec	グランジャベリン	GrandJav	claude	name #507
+0.BIN:467F0	0.BIN	467F0	8	rec	ゔァジュラスピア	Vajra	claude	name #508
+0.BIN:467F9	0.BIN	467F9	8	rec	ブラックレイン	BlkRain	claude	name #509
+0.BIN:46802	0.BIN	46802	8	rec	ホークアイ	Hawkeye	claude	name #510
+0.BIN:4680B	0.BIN	4680B	8	rec	ブルーノア	BlueNoah	claude	name #511
+0.BIN:46814	0.BIN	46814	8	rec	グングニル	Gungnir	claude	name #512
+0.BIN:4681D	0.BIN	4681D	8	rec	ゲヘナジャベリン	Gehenna	claude	name #513
+0.BIN:46826	0.BIN	46826	8	rec	ゲイボルク	GaeBolg	claude	name #514
+0.BIN:4682F	0.BIN	4682F	8	rec	ジャッジメント	Judgment	claude	name #515
+0.BIN:46838	0.BIN	46838	8	rec	ビスマルク	Bismarck	claude	name #516
+0.BIN:46841	0.BIN	46841	8	rec	エクスランサー	ExLancer	claude	name #517
+0.BIN:4684A	0.BIN	4684A	8	rec	マックスウェル	Maxwell	claude	name #518
+0.BIN:46853	0.BIN	46853	8	rec	ブーメラン	Boomrang	claude	name #519
+0.BIN:4685C	0.BIN	4685C	8	rec	フライングバット	FlyBat	claude	name #520
+0.BIN:46865	0.BIN	46865	8	rec	ツインバード	TwinBird	claude	name #521
+0.BIN:4686E	0.BIN	4686E	8	rec	スライサー	Slicer	claude	name #522
+0.BIN:46877	0.BIN	46877	8	rec	チャクラム	Chakram	claude	name #523
+0.BIN:46880	0.BIN	46880	8	rec	アイアンカッター	IronCutr	claude	name #524
+0.BIN:46889	0.BIN	46889	8	rec	らじょうせん	SpirlFan	claude	name #525
+0.BIN:46892	0.BIN	46892	8	rec	スワローカッター	Swallow	claude	name #526
+0.BIN:4689B	0.BIN	4689B	8	rec	しゅりけん	Shuriken	claude	name #527
+0.BIN:468A4	0.BIN	468A4	8	rec	ひょうばりん	Hyobarin	claude	name #528
+0.BIN:468AD	0.BIN	468AD	8	rec	げつがしゅりけん	MoonStar	claude	name #529
+0.BIN:468B6	0.BIN	468B6	8	rec	ガイエハーケン	GaieHakn	claude	name #530
+0.BIN:468BF	0.BIN	468BF	8	rec	ハラディ	Haladie	claude	name #531
+0.BIN:468C8	0.BIN	468C8	8	rec	ふうかりん	WindWhl	claude	name #532
+0.BIN:468D1	0.BIN	468D1	8	rec	ンギーグェ	NgeeGwe	claude	name #533
+0.BIN:468DA	0.BIN	468DA	8	rec	ギガントリング	GigRing	claude	name #534
+0.BIN:468E3	0.BIN	468E3	8	rec	のろいのはぐるま	CursGear	claude	name #535
+0.BIN:468EC	0.BIN	468EC	8	rec	ヘッドスライサー	HdSlicer	claude	name #536
+0.BIN:468F5	0.BIN	468F5	8	rec	トゥルス	Tules	claude	name #537
+0.BIN:468FE	0.BIN	468FE	8	rec	レッドインパルス	RedImpls	claude	name #538
+0.BIN:46907	0.BIN	46907	8	rec	スピンカッター	SpinCutr	claude	name #539
+0.BIN:46910	0.BIN	46910	8	rec	かりゅうひょう	FireStar	claude	name #540
+0.BIN:46919	0.BIN	46919	8	rec	ヒートサイクロン	HeatCycl	claude	name #541
+0.BIN:46922	0.BIN	46922	8	rec	せんこうりんだ	Senko	claude	name #542
+0.BIN:4692B	0.BIN	4692B	8	rec	おにぐるま	Onigurma	claude	name #543
+0.BIN:46934	0.BIN	46934	8	rec	デスソーサー	DthSaucr	claude	name #544
+0.BIN:4693D	0.BIN	4693D	8	rec	ゴッドバード	GodBird	claude	name #545
+0.BIN:46946	0.BIN	46946	8	rec	ビームホイール	BeamWhl	claude	name #546
+0.BIN:4694F	0.BIN	4694F	8	rec	じごくぐるま	HellWhl	claude	name #547
+0.BIN:46958	0.BIN	46958	8	rec	オーラチャクラム	AuraChak	claude	name #548
+0.BIN:46961	0.BIN	46961	8	rec	バズーカ1	Bazooka1	claude	name #549
+0.BIN:4696A	0.BIN	4696A	8	rec	オルゴール	MusicBox	claude	name #550
+0.BIN:46973	0.BIN	46973	8	rec	よごれたローブ	DirtRobe	claude	name #551
+0.BIN:4697C	0.BIN	4697C	8	rec	ローブ	Robe	claude	name #552
+0.BIN:46985	0.BIN	46985	8	rec	アルブ	Alb	claude	name #553
+0.BIN:4698E	0.BIN	4698E	8	rec	ケブラーフード	KevlrHd	claude	name #554
+0.BIN:46997	0.BIN	46997	8	rec	ブラッドローブ	BldRobe	claude	name #555
+0.BIN:469A0	0.BIN	469A0	8	rec	シンボルローブ	SymRobe	claude	name #556
+0.BIN:469A9	0.BIN	469A9	8	rec	アスペクトローブ	AspRobe	claude	name #557
+0.BIN:469B2	0.BIN	469B2	8	rec	てんしのローブ	AnglRobe	claude	name #558
+0.BIN:469BB	0.BIN	469BB	8	rec	マジックローブ	MagcRobe	claude	name #559
+0.BIN:469C4	0.BIN	469C4	8	rec	ハーミットフード	HermitHd	claude	name #560
+0.BIN:469CD	0.BIN	469CD	8	rec	VITローブ	VIT Robe	claude	name #561
+0.BIN:469D6	0.BIN	469D6	8	rec	ファイバーローブ	FibrRobe	claude	name #562
+0.BIN:469DF	0.BIN	469DF	8	rec	いやしのフード	HealHood	claude	name #563
+0.BIN:469E8	0.BIN	469E8	8	rec	ムーンローブ	MoonRobe	claude	name #564
+0.BIN:469F1	0.BIN	469F1	8	rec	マグネフード	MagneHd	claude	name #565
+0.BIN:469FA	0.BIN	469FA	8	rec	ソロネフード	ThroneHd	claude	name #566
+0.BIN:46A03	0.BIN	46A03	8	rec	あおいどうい	BluDougi	claude	name #567
+0.BIN:46A0C	0.BIN	46A0C	8	rec	バランスフード	BalncHd	claude	name #568
+0.BIN:46A15	0.BIN	46A15	8	rec	クスティー	Kusti	claude	name #569
+0.BIN:46A1E	0.BIN	46A1E	8	rec	エーテルフード	EtherHd	claude	name #570
+0.BIN:46A27	0.BIN	46A27	8	rec	しさいのローブ	PrstRobe	claude	name #571
+0.BIN:46A30	0.BIN	46A30	8	rec	スピリットローブ	SprtRobe	claude	name #572
+0.BIN:46A39	0.BIN	46A39	8	rec	カロンのフード	CharonHd	claude	name #573
+0.BIN:46A42	0.BIN	46A42	8	rec	サイコローブ	PsyRobe	claude	name #574
+0.BIN:46A4B	0.BIN	46A4B	8	rec	つかいのローブ	EnvyRobe	claude	name #575
+0.BIN:46A54	0.BIN	46A54	8	rec	スドラ	Sudra	claude	name #576
+0.BIN:46A5D	0.BIN	46A5D	8	rec	フレイムローブ	FlamRobe	claude	name #577
+0.BIN:46A66	0.BIN	46A66	8	rec	オーラローブ	AuraRobe	claude	name #578
+0.BIN:46A6F	0.BIN	46A6F	8	rec	さばきのローブ	JudgRobe	claude	name #579
+0.BIN:46A78	0.BIN	46A78	8	rec	びとくのローブ	VirtRobe	claude	name #580
+0.BIN:46A81	0.BIN	46A81	8	rec	しゅごのローブ	GuardRob	claude	name #581
+0.BIN:46A8A	0.BIN	46A8A	8	rec	しはいのローブ	DomRobe	claude	name #582
+0.BIN:46A93	0.BIN	46A93	8	rec	せいがいふ	Seigaiha	claude	name #583
+0.BIN:46A9C	0.BIN	46A9C	8	rec	せいぎのローブ	JustRobe	claude	name #584
+0.BIN:46AA5	0.BIN	46AA5	8	rec	マント	Mantle	claude	name #585
+0.BIN:46AAE	0.BIN	46AAE	8	rec	マジカルマント	MagMantl	claude	name #586
+0.BIN:46AB7	0.BIN	46AB7	8	rec	ナイトマント	KntMantl	claude	name #587
+0.BIN:46AC0	0.BIN	46AC0	8	rec	ジェネラルマント	GenMantl	claude	name #588
+0.BIN:46AC9	0.BIN	46AC9	8	rec	スカーフェイス	Scarface	claude	name #589
+0.BIN:46AD2	0.BIN	46AD2	8	rec	カイザーマント	KsrMantl	claude	name #590
+0.BIN:46ADB	0.BIN	46ADB	8	rec	ハーピーマント	HrpMantl	claude	name #591
+0.BIN:46AE4	0.BIN	46AE4	8	rec	パピルスマント	PapMantl	claude	name #592
+0.BIN:46AED	0.BIN	46AED	8	rec	ホーリーマント	HlyMantl	claude	name #593
+0.BIN:46AF6	0.BIN	46AF6	8	rec	デュアルマント	DulMantl	claude	name #594
+0.BIN:46AFF	0.BIN	46AFF	8	rec	サーコート	Surcoat	claude	name #595
+0.BIN:46B08	0.BIN	46B08	8	rec	マンテレッタ	Mantelet	claude	name #596
+0.BIN:46B11	0.BIN	46B11	8	rec	コンドルマント	Condor	claude	name #597
+0.BIN:46B1A	0.BIN	46B1A	8	rec	クリムゾンマント	Crimson	claude	name #598
+0.BIN:46B23	0.BIN	46B23	8	rec	ファイアレス	Fireless	claude	name #599
+0.BIN:46B2C	0.BIN	46B2C	8	rec	しっこくのマント	JetBlack	claude	name #600
+0.BIN:46B35	0.BIN	46B35	8	rec	かぜのマント	WndMantl	claude	name #601
+0.BIN:46B3E	0.BIN	46B3E	8	rec	ライオンハート	Lionhrt	claude	name #602
+0.BIN:46B47	0.BIN	46B47	8	rec	ウイングコート	WingCoat	claude	name #603
+0.BIN:46B50	0.BIN	46B50	8	rec	ほこりのマント	PrdMantl	claude	name #604
+0.BIN:46B59	0.BIN	46B59	8	rec	クルセイダーズ	Crusadrs	claude	name #605
+0.BIN:46B62	0.BIN	46B62	8	rec	パンツァーマント	PnzMantl	claude	name #606
+0.BIN:46B6B	0.BIN	46B6B	8	rec	シャドウコート	ShdCoat	claude	name #607
+0.BIN:46B74	0.BIN	46B74	8	rec	きこうしのマント	NobMantl	claude	name #608
+0.BIN:46B7D	0.BIN	46B7D	8	rec	ソニックマント	SncMantl	claude	name #609
+0.BIN:46B86	0.BIN	46B86	8	rec	プリズムコート	PrisCoat	claude	name #610
+0.BIN:46B8F	0.BIN	46B8F	8	rec	オーロラコート	AurCoat	claude	name #611
+0.BIN:46B98	0.BIN	46B98	8	rec	ダイナマント	DynMantl	claude	name #612
+0.BIN:46BA1	0.BIN	46BA1	8	rec	ダナーンのマント	Danaan	claude	name #613
+0.BIN:46BAA	0.BIN	46BAA	8	rec	こうてんりょう	KoutnRyo	claude	name #614
+0.BIN:46BB3	0.BIN	46BB3	8	rec	ジャスティス	Justice	claude	name #615
+0.BIN:46BBC	0.BIN	46BBC	8	rec	タルンカッペ	Tarnkapp	claude	name #616
+0.BIN:46BC5	0.BIN	46BC5	8	rec	カルラのつばさ	Karura	claude	name #617
+0.BIN:46BCE	0.BIN	46BCE	8	rec	インディオドレス	IndioDrs	claude	name #618
+0.BIN:46BD7	0.BIN	46BD7	8	rec	シルバードレス	SlvDress	claude	name #619
+0.BIN:46BE0	0.BIN	46BE0	8	rec	ゴールデンドレス	GldDress	claude	name #620
+0.BIN:46BE9	0.BIN	46BE9	8	rec	パンツァードレス	PnzDress	claude	name #621
+0.BIN:46BF2	0.BIN	46BF2	8	rec	バトルチャイナ	BtlChina	claude	name #622
+0.BIN:46BFB	0.BIN	46BFB	8	rec	プラチナドレス	PltDress	claude	name #623
+0.BIN:46C04	0.BIN	46C04	8	rec	ビンテージドレス	VntDress	claude	name #624
+0.BIN:46C0D	0.BIN	46C0D	8	rec	おどりこのドレス	DncDress	claude	name #625
+0.BIN:46C16	0.BIN	46C16	8	rec	チャイナドレス	ChnDress	claude	name #626
+0.BIN:46C1F	0.BIN	46C1F	8	rec	エウロペドレス	EurDress	claude	name #627
+0.BIN:46C28	0.BIN	46C28	8	rec	アバンギャルド	AvntGard	claude	name #628
+0.BIN:46C31	0.BIN	46C31	8	rec	チャームチャイナ	ChrmChna	claude	name #629
+0.BIN:46C3A	0.BIN	46C3A	8	rec	ねこがらドレス	CatDress	claude	name #630
+0.BIN:46C43	0.BIN	46C43	8	rec	ベアミドリフ	BareMidr	claude	name #631
+0.BIN:46C4C	0.BIN	46C4C	8	rec	アイドルドレス	IdlDress	claude	name #632
+0.BIN:46C55	0.BIN	46C55	8	rec	ブレザードレス	BlzDress	claude	name #633
+0.BIN:46C5E	0.BIN	46C5E	8	rec	イオドレス	Io Dress	claude	name #634
+0.BIN:46C67	0.BIN	46C67	8	rec	フラッシュドレス	FlsDress	claude	name #635
+0.BIN:46C70	0.BIN	46C70	8	rec	シャーマンドレス	ShmDress	claude	name #636
+0.BIN:46C79	0.BIN	46C79	8	rec	サンドリヨン	Cendrlln	claude	name #637
+0.BIN:46C82	0.BIN	46C82	8	rec	ガニメデドレス	GanDress	claude	name #638
+0.BIN:46C8B	0.BIN	46C8B	8	rec	プリンセスドレス	PrnDress	claude	name #639
+0.BIN:46C94	0.BIN	46C94	8	rec	レインボードレス	RnbDress	claude	name #640
+0.BIN:46C9D	0.BIN	46C9D	8	rec	フレイヤドレス	FryDress	claude	name #641
+0.BIN:46CA6	0.BIN	46CA6	8	rec	ハイレグドレス	HiLegDrs	claude	name #642
+0.BIN:46CAF	0.BIN	46CAF	8	rec	アマゾーヌ	Amazone	claude	name #643
+0.BIN:46CB8	0.BIN	46CB8	8	rec	カリストドレス	ClsDress	claude	name #644
+0.BIN:46CC1	0.BIN	46CC1	8	rec	シャドードレス	ShdDress	claude	name #645
+0.BIN:46CCA	0.BIN	46CCA	8	rec	ナイトクィーン	NightQn	claude	name #646
+0.BIN:46CD3	0.BIN	46CD3	8	rec	ノルンのドレス	NrnDress	claude	name #647
+0.BIN:46CDC	0.BIN	46CDC	8	rec	エンパイアドレス	EmpDress	claude	name #648
+0.BIN:46CE5	0.BIN	46CE5	8	rec	ケストス	Kestos	claude	name #649
+0.BIN:46CEE	0.BIN	46CEE	8	rec	イージスドレス	AegDress	claude	name #650
+0.BIN:46CF7	0.BIN	46CF7	8	rec	はごろも	Hagoromo	claude	name #651
+0.BIN:46D00	0.BIN	46D00	8	rec	こしぎんちゃく	WstPouch	claude	name #652
+0.BIN:46D09	0.BIN	46D09	8	rec	かぜのはごろも	WindHago	claude	name #653
+0.BIN:46D12	0.BIN	46D12	8	rec	てんのはごろも	HvnHago	claude	name #654
+0.BIN:46D1B	0.BIN	46D1B	8	rec	かげのはごろも	ShdHago	claude	name #655
+0.BIN:46D24	0.BIN	46D24	8	rec	ほしのはごろも	StarHago	claude	name #656
+0.BIN:46D2D	0.BIN	46D2D	8	rec	ラッキーマフラー	LuckyMuf	claude	name #657
+0.BIN:46D36	0.BIN	46D36	8	rec	みずのはごろも	WtrHago	claude	name #658
+0.BIN:46D3F	0.BIN	46D3F	8	rec	かすみのはごろも	MistHago	claude	name #659
+0.BIN:46D48	0.BIN	46D48	8	rec	INTマフラー	INT Muf	claude	name #660
+0.BIN:46D51	0.BIN	46D51	8	rec	ブラックベール	BlkVeil	claude	name #661
+0.BIN:46D5A	0.BIN	46D5A	8	rec	いやしのはごろも	HealHago	claude	name #662
+0.BIN:46D63	0.BIN	46D63	8	rec	にょせんはごろも	Nyosen	claude	name #663
+0.BIN:46D6C	0.BIN	46D6C	8	rec	ガンガーマフラー	GangaMuf	claude	name #664
+0.BIN:46D75	0.BIN	46D75	8	rec	ヤシュマク	Yashmak	claude	name #665
+0.BIN:46D7E	0.BIN	46D7E	8	rec	ひかりのはごろも	LghtHago	claude	name #666
+0.BIN:46D87	0.BIN	46D87	8	rec	ちえのはごろも	WisHago	claude	name #667
+0.BIN:46D90	0.BIN	46D90	8	rec	ちからおび	PwrBelt	claude	name #668
+0.BIN:46D99	0.BIN	46D99	8	rec	トカゲエリマキ	LzCollar	claude	name #669
+0.BIN:46DA2	0.BIN	46DA2	8	rec	クィーンベール	QueenVl	claude	name #670
+0.BIN:46DAB	0.BIN	46DAB	8	rec	ふうまのはごろも	SealHago	claude	name #671
+0.BIN:46DB4	0.BIN	46DB4	8	rec	しじゅはごろも	ShijHago	claude	name #672
+0.BIN:46DBD	0.BIN	46DBD	8	rec	サンマフラー	SunMuf	claude	name #673
+0.BIN:46DC6	0.BIN	46DC6	8	rec	イナズママフラー	BoltMuf	claude	name #674
+0.BIN:46DCF	0.BIN	46DCF	8	rec	ラウリンこしおび	Laurin	claude	name #675
+0.BIN:46DD8	0.BIN	46DD8	8	rec	メギョンギルズ	Megingjd	claude	name #676
+0.BIN:46DE1	0.BIN	46DE1	8	rec	らいていはごろも	Raitei	claude	name #677
+0.BIN:46DEA	0.BIN	46DEA	8	rec	オーロラマフラー	AuroMuf	claude	name #678
+0.BIN:46DF3	0.BIN	46DF3	8	rec	にょいはごろも	NyoiHago	claude	name #679
+0.BIN:46DFC	0.BIN	46DFC	8	rec	ドラゴンマフラー	DrgnMuf	claude	name #680
+0.BIN:46E05	0.BIN	46E05	8	rec	ようこのえりまき	YoukoScf	claude	name #681
+0.BIN:46E0E	0.BIN	46E0E	8	rec	けいせげんじょう	Keise	claude	name #682
+0.BIN:46E17	0.BIN	46E17	8	rec	ミルキーウェイ	MilkyWay	claude	name #683
+0.BIN:46E20	0.BIN	46E20	8	rec	レプリカスーツ	RepSuit	claude	name #684
+0.BIN:46E29	0.BIN	46E29	8	rec	メタルジャケット	MtlJackt	claude	name #685
+0.BIN:46E32	0.BIN	46E32	8	rec	アサルトスーツ	AsltSuit	claude	name #686
+0.BIN:46E3B	0.BIN	46E3B	8	rec	ステルスフォース	StlForce	claude	name #687
+0.BIN:46E44	0.BIN	46E44	8	rec	ハイパースーツ	HyprSuit	claude	name #688
+0.BIN:46E4D	0.BIN	46E4D	8	rec	ガーディアン	Guardian	claude	name #689
+0.BIN:46E56	0.BIN	46E56	8	rec	アドミラルスーツ	AdmSuit	claude	name #690
+0.BIN:46E5F	0.BIN	46E5F	8	rec	ライダースーツ	RdrSuit	claude	name #691
+0.BIN:46E68	0.BIN	46E68	8	rec	ミリタリースーツ	MilSuit	claude	name #692
+0.BIN:46E71	0.BIN	46E71	8	rec	ショゔスリスーツ	SovSuit	claude	name #693
+0.BIN:46E7A	0.BIN	46E7A	8	rec	タートルスーツ	TrtSuit	claude	name #694
+0.BIN:46E83	0.BIN	46E83	8	rec	アルミスーツ	AlmSuit	claude	name #695
+0.BIN:46E8C	0.BIN	46E8C	8	rec	カスタムスーツ	CstSuit	claude	name #696
+0.BIN:46E95	0.BIN	46E95	8	rec	ムスタングスーツ	MstSuit	claude	name #697
+0.BIN:46E9E	0.BIN	46E9E	8	rec	ブレイクスーツ	BrkSuit	claude	name #698
+0.BIN:46EA7	0.BIN	46EA7	8	rec	ソリッドスーツ	SldSuit	claude	name #699
+0.BIN:46EB0	0.BIN	46EB0	8	rec	ランドスーツ	LandSuit	claude	name #700
+0.BIN:46EB9	0.BIN	46EB9	8	rec	ダイヤスーツ	DiaSuit	claude	name #701
+0.BIN:46EC2	0.BIN	46EC2	8	rec	バトルスーツ	BtlSuit	claude	name #702
+0.BIN:46ECB	0.BIN	46ECB	8	rec	ケーニッヒスーツ	KngSuit	claude	name #703
+0.BIN:46ED4	0.BIN	46ED4	8	rec	パワードスーツ	PwrSuit	claude	name #704
+0.BIN:46EDD	0.BIN	46EDD	8	rec	ディバインスーツ	DivSuit	claude	name #705
+0.BIN:46EE6	0.BIN	46EE6	8	rec	パンツァースーツ	PnzSuit	claude	name #706
+0.BIN:46EEF	0.BIN	46EEF	8	rec	セイントスーツ	SntSuit	claude	name #707
+0.BIN:46EF8	0.BIN	46EF8	8	rec	ブルスーツ	BullSuit	claude	name #708
+0.BIN:46F01	0.BIN	46F01	8	rec	ティーゲルスーツ	TgrSuit	claude	name #709
+0.BIN:46F0A	0.BIN	46F0A	8	rec	ダイナスーツ	DynaSuit	claude	name #710
+0.BIN:46F13	0.BIN	46F13	8	rec	グラビティスーツ	GravSuit	claude	name #711
+0.BIN:46F1C	0.BIN	46F1C	8	rec	マイトスーツ	MghtSuit	claude	name #712
+0.BIN:46F25	0.BIN	46F25	8	rec	ペガサススーツ	PegSuit	claude	name #713
+0.BIN:46F2E	0.BIN	46F2E	8	rec	シュツルムスーツ	StrmSuit	claude	name #714
+0.BIN:46F37	0.BIN	46F37	8	rec	ゲンブのよろい	GenbuArm	claude	name #715
+0.BIN:46F40	0.BIN	46F40	8	rec	ロイヤルスーツ	RylSuit	claude	name #716
+0.BIN:46F49	0.BIN	46F49	8	rec	バロンスーツ	BrnSuit	claude	name #717
+0.BIN:46F52	0.BIN	46F52	8	rec	レザーアーマー	LthrArmr	claude	name #718
+0.BIN:46F5B	0.BIN	46F5B	8	rec	メタルアーマー	MtlArmor	claude	name #719
+0.BIN:46F64	0.BIN	46F64	8	rec	チタンアーマー	TitArmor	claude	name #720
+0.BIN:46F6D	0.BIN	46F6D	8	rec	テックアーマー	TechArmr	claude	name #721
+0.BIN:46F76	0.BIN	46F76	8	rec	ツイストアーマー	TwstArmr	claude	name #722
+0.BIN:46F7F	0.BIN	46F7F	8	rec	カルネージアーマ	Carnage	claude	name #723
+0.BIN:46F88	0.BIN	46F88	8	rec	ヤクトアーマー	JagdArmr	claude	name #724
+0.BIN:46F91	0.BIN	46F91	8	rec	ストーンアーマー	StnArmor	claude	name #725
+0.BIN:46F9A	0.BIN	46F9A	8	rec	サイバーアーマー	CybArmor	claude	name #726
+0.BIN:46FA3	0.BIN	46FA3	8	rec	エッジブレイカー	EdgeBrkr	claude	name #727
+0.BIN:46FAC	0.BIN	46FAC	8	rec	キルボアール	KillBoar	claude	name #728
+0.BIN:46FB5	0.BIN	46FB5	8	rec	フェイクアーマー	FakeArmr	claude	name #729
+0.BIN:46FBE	0.BIN	46FBE	8	rec	ランスブレイカー	LncBrkr	claude	name #730
+0.BIN:46FC7	0.BIN	46FC7	8	rec	モータルアーマー	MortArmr	claude	name #731
+0.BIN:46FD0	0.BIN	46FD0	8	rec	バイキングアーマ	VikArmor	claude	name #732
+0.BIN:46FD9	0.BIN	46FD9	8	rec	ゼータアーマー	ZetaArmr	claude	name #733
+0.BIN:46FE2	0.BIN	46FE2	8	rec	エクセレント	Excelent	claude	name #734
+0.BIN:46FEB	0.BIN	46FEB	8	rec	フリッツアーマー	FrtzArmr	claude	name #735
+0.BIN:46FF4	0.BIN	46FF4	8	rec	セイクリッド	Sacred	claude	name #736
+0.BIN:46FFD	0.BIN	46FFD	8	rec	ブリガンダイン	Brigandn	claude	name #737
+0.BIN:47006	0.BIN	47006	8	rec	パレードアーマー	ParArmor	claude	name #738
+0.BIN:4700F	0.BIN	4700F	8	rec	サーペントアーマ	SrpArmor	claude	name #739
+0.BIN:47018	0.BIN	47018	8	rec	パンツァーアーマ	PnzArmor	claude	name #740
+0.BIN:47021	0.BIN	47021	8	rec	レイジアーマー	RageArmr	claude	name #741
+0.BIN:4702A	0.BIN	4702A	8	rec	ミスリルアーマー	MytArmor	claude	name #742
+0.BIN:47033	0.BIN	47033	8	rec	バリアーマー	BarArmor	claude	name #743
+0.BIN:4703C	0.BIN	4703C	8	rec	フォトンアーマー	PhtArmor	claude	name #744
+0.BIN:47045	0.BIN	47045	8	rec	ティーゲルアーマ	TgrArmor	claude	name #745
+0.BIN:4704E	0.BIN	4704E	8	rec	ワイルドアーマー	WldArmor	claude	name #746
+0.BIN:47057	0.BIN	47057	8	rec	カオスアーマー	ChsArmor	claude	name #747
+0.BIN:47060	0.BIN	47060	8	rec	パラディンアーマ	PalArmor	claude	name #748
+0.BIN:47069	0.BIN	47069	8	rec	マイトアーマー	MgtArmor	claude	name #749
+0.BIN:47072	0.BIN	47072	8	rec	ヨーツンアーマー	JotArmor	claude	name #750
+0.BIN:4707B	0.BIN	4707B	8	rec	シーザーアーマー	CsrArmor	claude	name #751
+0.BIN:47084	0.BIN	47084	8	rec	ソフトメイル	SoftMail	claude	name #752
+0.BIN:4708D	0.BIN	4708D	8	rec	ハードメイル	HardMail	claude	name #753
+0.BIN:47096	0.BIN	47096	8	rec	プロテウスメイル	PrtsMail	claude	name #754
+0.BIN:4709F	0.BIN	4709F	8	rec	セラミックメイル	CerMail	claude	name #755
+0.BIN:470A8	0.BIN	470A8	8	rec	アトラスメイル	AtlsMail	claude	name #756
+0.BIN:470B1	0.BIN	470B1	8	rec	リミットメイル	LmtMail	claude	name #757
+0.BIN:470BA	0.BIN	470BA	8	rec	フリッツメイル	FrtzMail	claude	name #758
+0.BIN:470C3	0.BIN	470C3	8	rec	ボーンメイル	BoneMail	claude	name #759
+0.BIN:470CC	0.BIN	470CC	8	rec	リングメイル	RingMail	claude	name #760
+0.BIN:470D5	0.BIN	470D5	8	rec	チェインメイル	ChnMail	claude	name #761
+0.BIN:470DE	0.BIN	470DE	8	rec	コマンダーメイル	CmdMail	claude	name #762
+0.BIN:470E7	0.BIN	470E7	8	rec	スケールメイル	SclMail	claude	name #763
+0.BIN:470F0	0.BIN	470F0	8	rec	スプリントメイル	SplMail	claude	name #764
+0.BIN:470F9	0.BIN	470F9	8	rec	プレートメイル	PltMail	claude	name #765
+0.BIN:47102	0.BIN	47102	8	rec	バンデッドメイル	BndMail	claude	name #766
+0.BIN:4710B	0.BIN	4710B	8	rec	ウイングメイル	WingMail	claude	name #767
+0.BIN:47114	0.BIN	47114	8	rec	トリトンメイル	TrtnMail	claude	name #768
+0.BIN:4711D	0.BIN	4711D	8	rec	エクスメイル	Ex-Mail	claude	name #769
+0.BIN:47126	0.BIN	47126	8	rec	アダマンタイト	Adamant	claude	name #770
+0.BIN:4712F	0.BIN	4712F	8	rec	クライムメイル	CrmMail	claude	name #771
+0.BIN:47138	0.BIN	47138	8	rec	サターンメイル	SatMail	claude	name #772
+0.BIN:47141	0.BIN	47141	8	rec	トライメイル	TriMail	claude	name #773
+0.BIN:4714A	0.BIN	4714A	8	rec	ミスリルメイル	MytMail	claude	name #774
+0.BIN:47153	0.BIN	47153	8	rec	シーメイル	SeaMail	claude	name #775
+0.BIN:4715C	0.BIN	4715C	8	rec	ティーゲルメイル	TgrMail	claude	name #776
+0.BIN:47165	0.BIN	47165	8	rec	デモンメイル	DmnMail	claude	name #777
+0.BIN:4716E	0.BIN	4716E	8	rec	カラミティメイル	CalMail	claude	name #778
+0.BIN:47177	0.BIN	47177	8	rec	エレファント	Elephant	claude	name #779
+0.BIN:47180	0.BIN	47180	8	rec	ごくそつのよろい	HellArmr	claude	name #780
+0.BIN:47189	0.BIN	47189	8	rec	ドラゴンメイル	DrgMail	claude	name #781
+0.BIN:47192	0.BIN	47192	8	rec	ヘカトンメイル	HecMail	claude	name #782
+0.BIN:4719B	0.BIN	4719B	8	rec	ルーンメイル	RuneMail	claude	name #783
+0.BIN:471A4	0.BIN	471A4	8	rec	しゆうのよろい	ShiyuArm	claude	name #784
+0.BIN:471AD	0.BIN	471AD	8	rec	ニフルガード	Niflgard	claude	name #785
+0.BIN:471B6	0.BIN	471B6	8	rec	インビジブル	Invisibl	claude	name #786
+0.BIN:471BF	0.BIN	471BF	8	rec	エアロガード	AeroGard	claude	name #787
+0.BIN:471C8	0.BIN	471C8	8	rec	ATフィールド	AT Field	claude	name #788
+0.BIN:471D1	0.BIN	471D1	8	rec	マグネガード	MagGuard	claude	name #789
+0.BIN:471DA	0.BIN	471DA	8	rec	ソウルガード	SoulGard	claude	name #790
+0.BIN:471E3	0.BIN	471E3	8	rec	ハルシネイション	Halucin	claude	name #791
+0.BIN:471EC	0.BIN	471EC	8	rec	しゅうきのまもり	AutGuard	claude	name #792
+0.BIN:471F5	0.BIN	471F5	8	rec	どかくけっかい	EarthBar	claude	name #793
+0.BIN:471FE	0.BIN	471FE	8	rec	スモークガード	SmkGuard	claude	name #794
+0.BIN:47207	0.BIN	47207	8	rec	ミストガード	MistGard	claude	name #795
+0.BIN:47210	0.BIN	47210	8	rec	さじんのまもり	SandGard	claude	name #796
+0.BIN:47219	0.BIN	47219	8	rec	ダークネスガード	DarkGard	claude	name #797
+0.BIN:47222	0.BIN	47222	8	rec	みずのけっかい	WaterBar	claude	name #798
+0.BIN:4722B	0.BIN	4722B	8	rec	スチームガード	StmGuard	claude	name #799
+0.BIN:47234	0.BIN	47234	8	rec	ひのけっかい	FireBar	claude	name #800
+0.BIN:4723D	0.BIN	4723D	8	rec	サイコガード	PsyGuard	claude	name #801
+0.BIN:47246	0.BIN	47246	8	rec	かみなりけっかい	ThndrBar	claude	name #802
+0.BIN:4724F	0.BIN	4724F	8	rec	ウルトラブレス	UltBless	claude	name #803
+0.BIN:47258	0.BIN	47258	8	rec	クラウドガード	CldGuard	claude	name #804
+0.BIN:47261	0.BIN	47261	8	rec	グラビティガード	GravGard	claude	name #805
+0.BIN:4726A	0.BIN	4726A	8	rec	じげんのまもり	DimGuard	claude	name #806
+0.BIN:47273	0.BIN	47273	8	rec	クリスタルガード	CrysGard	claude	name #807
+0.BIN:4727C	0.BIN	4727C	8	rec	パルスガード	PlsGuard	claude	name #808
+0.BIN:47285	0.BIN	47285	8	rec	ミラージュガード	MirGuard	claude	name #809
+0.BIN:4728E	0.BIN	4728E	8	rec	げっこうのまもり	MoonGard	claude	name #810
+0.BIN:47297	0.BIN	47297	8	rec	じんつうけっかい	PsyBar	claude	name #811
+0.BIN:472A0	0.BIN	472A0	8	rec	ゾディアック	Zodiac	claude	name #812
+0.BIN:472A9	0.BIN	472A9	8	rec	ドリームガード	DrmGuard	claude	name #813
+0.BIN:472B2	0.BIN	472B2	8	rec	はだかのおうさま	NakedKng	claude	name #814
+0.BIN:472BB	0.BIN	472BB	8	rec	ファントムガード	PhnGuard	claude	name #815
+0.BIN:472C4	0.BIN	472C4	8	rec	オーラガード	AuraGard	claude	name #816
+0.BIN:472CD	0.BIN	472CD	8	rec	ゴッドブレス	GodBless	claude	name #817
+0.BIN:472D6	0.BIN	472D6	8	rec	ブレストプレート	BrstPlt	claude	name #818
+0.BIN:472DF	0.BIN	472DF	8	rec	シルバープレート	SilvPlt	claude	name #819
+0.BIN:472E8	0.BIN	472E8	8	rec	ゴールドプレート	GoldPlt	claude	name #820
+0.BIN:472F1	0.BIN	472F1	8	rec	チョバムプレート	ChobPlt	claude	name #821
+0.BIN:472FA	0.BIN	472FA	8	rec	オメガプレート	OmgPlt	claude	name #822
+0.BIN:47303	0.BIN	47303	8	rec	マスタープレート	MstrPlt	claude	name #823
+0.BIN:4730C	0.BIN	4730C	8	rec	ボーンプレート	BonePlt	claude	name #824
+0.BIN:47315	0.BIN	47315	8	rec	せんしのむねあて	WarPlt	claude	name #825
+0.BIN:4731E	0.BIN	4731E	8	rec	モノリスプレート	MonoPlt	claude	name #826
+0.BIN:47327	0.BIN	47327	8	rec	ビーストプレート	BeastPlt	claude	name #827
+0.BIN:47330	0.BIN	47330	8	rec	ブラッドプレート	BloodPlt	claude	name #828
+0.BIN:47339	0.BIN	47339	8	rec	ミスリルプレート	MythPlt	claude	name #829
+0.BIN:47342	0.BIN	47342	8	rec	マントラプレート	MntrPlt	claude	name #830
+0.BIN:4734B	0.BIN	4734B	8	rec	アサルトプレート	AsltPlt	claude	name #831
+0.BIN:47354	0.BIN	47354	8	rec	デモンプレート	DemonPlt	claude	name #832
+0.BIN:4735D	0.BIN	4735D	8	rec	アルファプレート	AlphaPlt	claude	name #833
+0.BIN:47366	0.BIN	47366	8	rec	ブルプレート	BullPlt	claude	name #834
+0.BIN:4736F	0.BIN	4736F	8	rec	ロイヤルプレート	RoyalPlt	claude	name #835
+0.BIN:47378	0.BIN	47378	8	rec	ワイルドプレート	WildPlt	claude	name #836
+0.BIN:47381	0.BIN	47381	8	rec	アースプレート	EarthPlt	claude	name #837
+0.BIN:4738A	0.BIN	4738A	8	rec	ばちょうのにしき	MaChao	claude	name #838
+0.BIN:47393	0.BIN	47393	8	rec	ウルニュプレート	UrnyuPlt	claude	name #839
+0.BIN:4739C	0.BIN	4739C	8	rec	モビックプレート	MobicPlt	claude	name #840
+0.BIN:473A5	0.BIN	473A5	8	rec	ダイヤプレート	DiaPlt	claude	name #841
+0.BIN:473AE	0.BIN	473AE	8	rec	キンナラプレート	KinnaPlt	claude	name #842
+0.BIN:473B7	0.BIN	473B7	8	rec	マイトプレート	MightPlt	claude	name #843
+0.BIN:473C0	0.BIN	473C0	8	rec	きしんのむねあて	KishPlt	claude	name #844
+0.BIN:473C9	0.BIN	473C9	8	rec	ダイナプレート	DynaPlt	claude	name #845
+0.BIN:473D2	0.BIN	473D2	8	rec	フォトンプレート	PhotnPlt	claude	name #846
+0.BIN:473DB	0.BIN	473DB	8	rec	スカーミッシュ	Skirmish	claude	name #847
+0.BIN:473E4	0.BIN	473E4	8	rec	てんまのむねあて	TenmaPlt	claude	name #848
+0.BIN:473ED	0.BIN	473ED	8	rec	ゴクウのむねあて	GokuPlt	claude	name #849
+0.BIN:473F6	0.BIN	473F6	8	rec	オリハルコン	Orichalc	claude	name #850
+0.BIN:473FF	0.BIN	473FF	8	rec	クラウン	Crown	claude	name #851
+0.BIN:47408	0.BIN	47408	8	rec	ヘッドギア	Headgear	claude	name #852
+0.BIN:47411	0.BIN	47411	8	rec	マジックヘルム	MagHelm	claude	name #853
+0.BIN:4741A	0.BIN	4741A	8	rec	はねつきぼうし	FthrHat	claude	name #854
+0.BIN:47423	0.BIN	47423	8	rec	Mブースター	MBooster	claude	name #855
+0.BIN:4742C	0.BIN	4742C	8	rec	アミュレット	Amulet	claude	name #856
+0.BIN:47435	0.BIN	47435	8	rec	タリスマン	Talisman	claude	name #857
+0.BIN:4743E	0.BIN	4743E	8	rec	パワーシンボル	PwrSymbl	claude	name #858
+0.BIN:47447	0.BIN	47447	8	rec	ラピスラズリ	Lapis	claude	name #859
+0.BIN:47450	0.BIN	47450	8	rec	ベテランジュエル	VetJewel	claude	name #860
+0.BIN:47459	0.BIN	47459	8	rec	ちからのうでわ	PwrBrclt	claude	name #861
+0.BIN:47462	0.BIN	47462	8	rec	ハートフルリング	HrtRing	claude	name #862
+0.BIN:4746B	0.BIN	4746B	8	rec	MAGダウジング	MAGDowse	claude	name #863
+0.BIN:47474	0.BIN	47474	8	rec	しゅせんどのうで	MisrArm	claude	name #864
+0.BIN:4747D	0.BIN	4747D	8	rec	ラストバイブル	LastBibl	claude	name #865
+0.BIN:47486	0.BIN	47486	8	rec	ドルイドクロス	DrdCross	claude	name #866
+0.BIN:4748F	0.BIN	4748F	8	rec	タロットカード	Tarot	claude	name #867
+0.BIN:47498	0.BIN	47498	8	rec	サモンウイング	SmnWing	claude	name #868
+0.BIN:474A1	0.BIN	474A1	8	rec	ロザリオ	Rosario	claude	name #869
+0.BIN:474AA	0.BIN	474AA	8	rec	りゅうのまがだま	Magatama	claude	name #870
+0.BIN:474B3	0.BIN	474B3	8	rec	エンマのゆびわ	EnmaRing	claude	name #871
+0.BIN:474BC	0.BIN	474BC	8	rec	EXODUS	EXODUS	claude	name #872
+0.BIN:474C5	0.BIN	474C5	8	rec	STRインセンス	STR Insc	claude	name #873
+0.BIN:474CE	0.BIN	474CE	8	rec	INTインセンス	INT Insc	claude	name #874
+0.BIN:474D7	0.BIN	474D7	8	rec	VITインセンス	VIT Insc	claude	name #875
+0.BIN:474E0	0.BIN	474E0	8	rec	MGCインセンス	MGC Insc	claude	name #876
+0.BIN:474E9	0.BIN	474E9	8	rec	AGLインセンス	AGL Insc	claude	name #877
+0.BIN:474F2	0.BIN	474F2	8	rec	LUKインセンス	LUK Insc	claude	name #878
+0.BIN:474FB	0.BIN	474FB	8	rec	きずぐすり	Medicine	claude	name #879
+0.BIN:47504	0.BIN	47504	8	rec	ませき	MagStone	claude	name #880
+0.BIN:4750D	0.BIN	4750D	8	rec	ほうぎょく	Gem Orb	claude	name #881
+0.BIN:47516	0.BIN	47516	8	rec	チャクラドロップ	ChakDrop	claude	name #882
+0.BIN:4751F	0.BIN	4751F	8	rec	チャクラチップ	ChakChip	claude	name #883
+0.BIN:47528	0.BIN	47528	8	rec	チャクラポット	ChakPot	claude	name #884
+0.BIN:47531	0.BIN	47531	8	rec	ソーマ	Soma	claude	name #885
+0.BIN:4753A	0.BIN	4753A	8	rec	ボディチャージ	BodyChrg	claude	name #886
+0.BIN:47543	0.BIN	47543	8	rec	メンタルチャージ	MntlChrg	claude	name #887
+0.BIN:4754C	0.BIN	4754C	8	rec	オールチャージ	AllChrg	claude	name #888
+0.BIN:47555	0.BIN	47555	8	rec	ダイヤモンド	Diamond	claude	name #889
+0.BIN:4755E	0.BIN	4755E	8	rec	サファイア	Sapphire	claude	name #890
+0.BIN:47567	0.BIN	47567	8	rec	エメラルド	Emerald	claude	name #891
+0.BIN:47570	0.BIN	47570	8	rec	ルビー	Ruby	claude	name #892
+0.BIN:47579	0.BIN	47579	8	rec	パール	Pearl	claude	name #893
+0.BIN:47582	0.BIN	47582	8	rec	オパール	Opal	claude	name #894
+0.BIN:4758B	0.BIN	4758B	8	rec	アメジスト	Amethyst	claude	name #895
+0.BIN:47594	0.BIN	47594	8	rec	ガーネット	Garnet	claude	name #896
+0.BIN:4759D	0.BIN	4759D	8	rec	アクアマリン	Aquamarn	claude	name #897
+0.BIN:475A6	0.BIN	475A6	8	rec	トパーズ	Topaz	claude	name #898
+0.BIN:475AF	0.BIN	475AF	8	rec	オニキス	Onyx	claude	name #899
+0.BIN:475B8	0.BIN	475B8	8	rec	ターコイズ	Turquois	claude	name #900
+0.BIN:475C1	0.BIN	475C1	8	rec	カプセル1	Capsule1	claude	name #901
+0.BIN:475CA	0.BIN	475CA	8	rec	カプセル2	Capsule2	claude	name #902
+0.BIN:475D3	0.BIN	475D3	8	rec	カプセル3	Capsule3	claude	name #903
+0.BIN:475DC	0.BIN	475DC	8	rec	カプセル4	Capsule4	claude	name #904
+0.BIN:475E5	0.BIN	475E5	8	rec	カプセル5	Capsule5	claude	name #905
+0.BIN:475EE	0.BIN	475EE	8	rec	しょうりのあかし	Trophy	claude	name #906
+0.BIN:475F7	0.BIN	475F7	8	rec	アギ	Agi	claude	name #907
+0.BIN:47600	0.BIN	47600	8	rec	アギラオ	Agilao	claude	name #908
+0.BIN:47609	0.BIN	47609	8	rec	マハラギ	Maragi	claude	name #909
+0.BIN:47612	0.BIN	47612	8	rec	マハラギオン	Maragion	claude	name #910
+0.BIN:4761B	0.BIN	4761B	8	rec	ブフ	Bufu	claude	name #911
+0.BIN:47624	0.BIN	47624	8	rec	ブフーラ	Bufula	claude	name #912
+0.BIN:4762D	0.BIN	4762D	8	rec	マハブフ	Mabufu	claude	name #913
+0.BIN:47636	0.BIN	47636	8	rec	マハブフーラ	Mabufula	claude	name #914
+0.BIN:4763F	0.BIN	4763F	8	rec	ジオ	Zio	claude	name #915
+0.BIN:47648	0.BIN	47648	8	rec	ジオンガ	Zionga	claude	name #916
+0.BIN:47651	0.BIN	47651	8	rec	マハジオ	Mazio	claude	name #917
+0.BIN:4765A	0.BIN	4765A	8	rec	マハジオンガ	Mazionga	claude	name #918
+0.BIN:47663	0.BIN	47663	8	rec	ザン	Zan	claude	name #919
+0.BIN:4766C	0.BIN	4766C	8	rec	ザンマ	Zanma	claude	name #920
+0.BIN:47675	0.BIN	47675	8	rec	マハザン	Mazan	claude	name #921
+0.BIN:4767E	0.BIN	4767E	8	rec	マハザンマ	Mazanma	claude	name #922
+0.BIN:47687	0.BIN	47687	8	rec	メギド	Megido	claude	name #923
+0.BIN:47690	0.BIN	47690	8	rec	メギドラ	Megidola	claude	name #924
+0.BIN:47699	0.BIN	47699	8	rec	メギドラオン	Megidoln	claude	name #925
+0.BIN:476A2	0.BIN	476A2	8	rec	ディア	Dia	claude	name #926
+0.BIN:476AB	0.BIN	476AB	8	rec	ディアラマ	Diarama	claude	name #927
+0.BIN:476B4	0.BIN	476B4	8	rec	ディアラハン	Diarahan	claude	name #928
+0.BIN:476BD	0.BIN	476BD	8	rec	メディア	Media	claude	name #929
+0.BIN:476C6	0.BIN	476C6	8	rec	メディアラマ	Mediarma	claude	name #930
+0.BIN:476CF	0.BIN	476CF	8	rec	メディアラハン	Mediarhn	claude	name #931
+0.BIN:476D8	0.BIN	476D8	8	rec	ボディパトラ	BdyPatra	claude	name #932
+0.BIN:476E1	0.BIN	476E1	8	rec	メンタルパトラ	MntPatra	claude	name #933
+0.BIN:476EA	0.BIN	476EA	8	rec	ペンパトラ	Penpatra	claude	name #934
+0.BIN:476F3	0.BIN	476F3	8	rec	ヘルファイヤー	Hellfire	claude	name #935
+0.BIN:476FC	0.BIN	476FC	8	rec	ぜったいれいど	AbsZero	claude	name #936
+0.BIN:47705	0.BIN	47705	8	rec	アースシャワー	EarthSwr	claude	name #937
+0.BIN:4770E	0.BIN	4770E	8	rec	ホットスノー	HotSnow	claude	name #938
+0.BIN:47717	0.BIN	47717	8	rec	HPきゅうしゅう	HP Drain	claude	name #939
+0.BIN:47720	0.BIN	47720	8	rec	ジャッジメント	Judgment	claude	name #940
+0.BIN:47729	0.BIN	47729	8	rec	ペトラアイ	PetraEye	claude	name #941
+0.BIN:47732	0.BIN	47732	8	rec	バトルソング	BtlSong	claude	name #942
+0.BIN:4773B	0.BIN	4773B	8	rec	タルカジャ	Tarukaja	claude	name #943
+0.BIN:47744	0.BIN	47744	8	rec	ラクカジャ	Rakukaja	claude	name #944
+0.BIN:4774D	0.BIN	4774D	8	rec	タルンダ	Tarunda	claude	name #945
+0.BIN:47756	0.BIN	47756	8	rec	ラクンダ	Rakunda	claude	name #946
+0.BIN:4775F	0.BIN	4775F	8	rec	ディカーム	Decalm	claude	name #947
+0.BIN:47768	0.BIN	47768	8	rec	パトカーム	Patcalm	claude	name #948
+0.BIN:47771	0.BIN	47771	8	rec	マジックハンド	MagHand	claude	name #949
+0.BIN:4777A	0.BIN	4777A	8	rec	レイ・シャワー	RayShowr	claude	name #950
+0.BIN:47783	0.BIN	47783	8	rec	メタルレイン	MtlRain	claude	name #951
+0.BIN:4778C	0.BIN	4778C	8	rec	アイスアロー	IceArrow	claude	name #952
+0.BIN:47795	0.BIN	47795	8	rec	かみつき	Bite	claude	name #953
+0.BIN:4779E	0.BIN	4779E	8	rec	ゔァンプ	Vamp	claude	name #954
+0.BIN:477A7	0.BIN	477A7	8	rec	クエイク	Quake	claude	name #955
+0.BIN:477B0	0.BIN	477B0	8	rec	フロストフォール	Frostfal	claude	name #956
+0.BIN:477B9	0.BIN	477B9	8	rec	レクイエム	Requiem	claude	name #957
+0.BIN:477C2	0.BIN	477C2	8	rec	Gエフェクト	G Effect	claude	name #958
+0.BIN:477CB	0.BIN	477CB	8	rec	ポイズンニードル	PsnNeedl	claude	name #959
+0.BIN:477D4	0.BIN	477D4	8	rec	ポイズンブレス	PsnBrth	claude	name #960
+0.BIN:477DD	0.BIN	477DD	8	rec	ねむりのすな	SlpSand	claude	name #961
+0.BIN:477E6	0.BIN	477E6	8	rec	こもりうた	Lullaby	claude	name #962
+0.BIN:477EF	0.BIN	477EF	8	rec	ハウリング	Howling	claude	name #963
+0.BIN:477F8	0.BIN	477F8	8	rec	パニックボイス	PanicVce	claude	name #964
+0.BIN:47801	0.BIN	47801	8	rec	アラクノワイヤー	ArakWire	claude	name #965
+0.BIN:4780A	0.BIN	4780A	8	rec	バインドボイス	BindVoce	claude	name #966
+0.BIN:47813	0.BIN	47813	8	rec	まひばり	ParaNdl	claude	name #967
+0.BIN:4781C	0.BIN	4781C	8	rec	ふういん	Seal	claude	name #968
+0.BIN:47825	0.BIN	47825	8	rec	センテンス	Sentence	claude	name #969
+0.BIN:4782E	0.BIN	4782E	8	rec	にらみつけ	Glare	claude	name #970
+0.BIN:47837	0.BIN	47837	8	rec	あくまのキス	DvlKiss	claude	name #971
+0.BIN:47840	0.BIN	47840	8	rec	アタックアップ	Atk Up	claude	name #972
+0.BIN:47849	0.BIN	47849	8	rec	マジックアップ	Mag Up	claude	name #973
+0.BIN:47852	0.BIN	47852	8	rec	ガードアップ	Grd Up	claude	name #974
+0.BIN:4785B	0.BIN	4785B	8	rec	ちえのあめ	WiseRain	claude	name #975
+0.BIN:47864	0.BIN	47864	8	rec	ロストアップ	LostUp	claude	name #976
+0.BIN:4786D	0.BIN	4786D	8	rec	アタックダウン	Atk Down	claude	name #977
+0.BIN:47876	0.BIN	47876	8	rec	ガードダウン	Grd Down	claude	name #978
+0.BIN:4787F	0.BIN	4787F	8	rec	ムーブダウン	MoveDown	claude	name #979
+0.BIN:47888	0.BIN	47888	8	rec	あついほうよう	Embrace	claude	name #980
+0.BIN:47891	0.BIN	47891	8	rec	いのちのうた	LifeSong	claude	name #981
+0.BIN:4789A	0.BIN	4789A	8	rec	マジックレスト	MagRest	claude	name #982
+0.BIN:478A3	0.BIN	478A3	8	rec	MPかいふく	MP Heal	claude	name #983
+0.BIN:478AC	0.BIN	478AC	8	rec	スケープゴート	Scapegt	claude	name #984
+0.BIN:478B5	0.BIN	478B5	8	rec	しゅくふくのうた	Blessing	claude	name #985
+0.BIN:478BE	0.BIN	478BE	8	rec	ハロウィン	Hallowen	claude	name #986
+0.BIN:478C7	0.BIN	478C7	8	rec	HPチェンジ	HPChange	claude	name #987
+0.BIN:478D0	0.BIN	478D0	8	rec	MPチェンジ	MPChange	claude	name #988
+0.BIN:478D9	0.BIN	478D9	8	rec	Gぬすみ	G Steal	claude	name #989
+0.BIN:478E2	0.BIN	478E2	8	rec	ゾーンチェンジ	ZoneChng	claude	name #990
+0.BIN:478EB	0.BIN	478EB	8	rec	じゅばく	Spellbnd	claude	name #991
+0.BIN:478F4	0.BIN	478F4	8	rec	しょうらい	Summon	claude	name #992
+0.BIN:478FD	0.BIN	478FD	8	rec	せんりがん	FarSight	claude	name #993
+0.BIN:47906	0.BIN	47906	8	rec	SEリクエスト	SE Req.	claude	name #994
+0.BIN:4790F	0.BIN	4790F	8	rec	BGMリクエスト	BGM Req.	claude	name #995
+0.BIN:47918	0.BIN	47918	8	rec	チャクラドロップ	ChakDrop	claude	name #996
+0.BIN:47921	0.BIN	47921	8	rec	チャクラチップ	ChakChip	claude	name #997
+0.BIN:4792A	0.BIN	4792A	8	rec	チャクラポット	ChakPot	claude	name #998
+0.BIN:47933	0.BIN	47933	8	rec	ソーマ	Soma	claude	name #999
+0.BIN:4793C	0.BIN	4793C	6	rec				short name #0
+0.BIN:47943	0.BIN	47943	6	rec				short name #1
+0.BIN:4794A	0.BIN	4794A	6	rec				short name #2
+0.BIN:47951	0.BIN	47951	6	rec	セラフ	Seraph	claude	short name #3
+0.BIN:47958	0.BIN	47958	6	rec	てんし	Angel	claude	short name #4
+0.BIN:4795F	0.BIN	4795F	6	rec	だてんし	Fallen	claude	short name #5
+0.BIN:47966	0.BIN	47966	6	rec	れいちょう	Avian	claude	short name #6
+0.BIN:4796D	0.BIN	4796D	6	rec	せいじゅう	Holy	claude	short name #7
+0.BIN:47974	0.BIN	47974	6	rec	まじゅう	Beast	claude	short name #8
+0.BIN:4797B	0.BIN	4797B	6	rec	ちぼしん	Mother	claude	short name #9
+0.BIN:47982	0.BIN	47982	6	rec	めがみ	Megami	claude	short name #10
+0.BIN:47989	0.BIN	47989	6	rec	きじょ	Femme	claude	short name #11
+0.BIN:47990	0.BIN	47990	6	rec	りゅうじん	Dragon	claude	short name #12
+0.BIN:47997	0.BIN	47997	6	rec	りゅうおう	D.King	claude	short name #13
+0.BIN:4799E	0.BIN	4799E	6	rec	じゃりゅう	Drake	claude	short name #14
+0.BIN:479A5	0.BIN	479A5	6	rec	げんま	Genma	claude	short name #15
+0.BIN:479AC	0.BIN	479AC	6	rec	ようせい	Fairy	claude	short name #16
+0.BIN:479B3	0.BIN	479B3	6	rec	ちれい	Jirae	claude	short name #17
+0.BIN:479BA	0.BIN	479BA	6	rec	まじん	Majin	claude	short name #18
+0.BIN:479C1	0.BIN	479C1	6	rec	きしん	Kishin	claude	short name #19
+0.BIN:479C8	0.BIN	479C8	6	rec	ようき	Yoma	claude	short name #20
+0.BIN:479CF	0.BIN	479CF	6	rec	やま	Night	claude	short name #21
+0.BIN:479D6	0.BIN	479D6	6	rec	あくりょう	Ghost	claude	short name #22
+0.BIN:479DD	0.BIN	479DD	6	rec	せいれい	Spirit	claude	short name #23
+0.BIN:479E4	0.BIN	479E4	6	rec	へんい	Mutant	claude	short name #24
+0.BIN:479EB	0.BIN	479EB	6	rec	しんあくま	Fused	claude	short name #25
+0.BIN:479F2	0.BIN	479F2	6	rec				short name #26
+0.BIN:479F9	0.BIN	479F9	6	rec				short name #27
+0.BIN:47A00	0.BIN	47A00	6	rec				short name #28
+0.BIN:47A07	0.BIN	47A07	6	rec	おおぞら	Sky	claude	short name #29
+0.BIN:47A0E	0.BIN	47A0E	6	rec	ふゆう	Hovr	claude	short name #30
+0.BIN:47A15	0.BIN	47A15	6	rec	ちじょう	Land	claude	short name #31
+0.BIN:47A1C	0.BIN	47A1C	6	rec	ノーマル	Fine	claude	short name #32
+0.BIN:47A23	0.BIN	47A23	6	rec	シール	Seal	claude	short name #33
+0.BIN:47A2A	0.BIN	47A2A	6	rec	クローズ	Close	claude	short name #34
+0.BIN:47A31	0.BIN	47A31	6	rec	てんばつ	Smite	claude	short name #35
+0.BIN:47A38	0.BIN	47A38	6	rec	ストップ	Stop	claude	short name #36
+0.BIN:47A3F	0.BIN	47A3F	6	rec	スリープ	Sleep	claude	short name #37
+0.BIN:47A46	0.BIN	47A46	6	rec	バインド	Bind	claude	short name #38
+0.BIN:47A4D	0.BIN	47A4D	6	rec	パラライズ	Para	claude	short name #39
+0.BIN:47A54	0.BIN	47A54	6	rec	パニック	Panic	claude	short name #40
+0.BIN:47A5B	0.BIN	47A5B	6	rec	ポイズン	Psn	claude	short name #41
+0.BIN:47A62	0.BIN	47A62	6	rec	ストーン	Stone	claude	short name #42
+0.BIN:3C6C0	0.BIN	3C6C0	3	str	ロード	Lod	claude	
+0.BIN:3C6C4	0.BIN	3C6C4	13	str	  ほんたいRAM    	 System RAM  	claude	
+0.BIN:3C6D4	0.BIN	3C6D4	13	str	  カートリッジRAM  	Cartridge RAM	claude	
+0.BIN:3C6E4	0.BIN	3C6E4	4	str	SAVE			
+0.BIN:3C6EC	0.BIN	3C6EC	4	str	LOAD			
+0.BIN:3C6F4	0.BIN	3C6F4	13	str	 SYSTEM RAM  			
+0.BIN:3C704	0.BIN	3C704	13	str	CARTRIDGE RAM			
+0.BIN:3C714	0.BIN	3C714	22	str	SAVE DATA {FD02}{NL}{NL}NEW SAVE			
+0.BIN:3C72C	0.BIN	3C72C	12	str	SAVE DATA {FD02}			
+0.BIN:3C73C	0.BIN	3C73C	12	str	NO SAVE DATA			
+0.BIN:3C74C	0.BIN	3C74C	6	str	ステージ{FD02}	Stg {FD02}	claude	
+0.BIN:3C758	0.BIN	3C758	9	str	LV{FD02} RK{FD02}			
+0.BIN:3C764	0.BIN	3C764	25	str	そうごうユニットすう {FD02} そうごうなかますう{FD02}	All Units {FD02} All Demons{FD02}	claude	
+0.BIN:3C780	0.BIN	3C780	11	str	G{FD09}   MAG{FD08}			
+0.BIN:3C78C	0.BIN	3C78C	4	str	クリアー	Done	claude	
+0.BIN:3C794	0.BIN	3C794	34	str	なまえ    LV RK  HP  MP  AP  DP ちゅうせい	Name   LV RK  HP  MP  AP  DP Loyal	claude	
+0.BIN:3C7B8	0.BIN	3C7B8	66	str	いどうタイプ {FB}いどうりょく {FD02}  しょじMAG {FD03}/{FD03}{NL}そうびタイプ {FB} しゃてい{FD02}  けいけんち {FD02} くんれんど {FD02}	MvType {FB}Move   {FD02}  OwnMAG {FD03}/{FD03}{NL}Weapon {FB} Rng:{FD02}  EXP   {FD02} TRN   {FD02}	claude	
+0.BIN:3C820	0.BIN	3C820	3	str	{FB}{FD02}			
+0.BIN:3C824	0.BIN	3C824	9	str	G{FD09}{NL}MAG{FD07}			
+0.BIN:3C830	0.BIN	3C830	15	str	  しょじすう{NL} {FD03}({FD03})	  Owned{NL} {FD03}({FD03})	claude	
+0.BIN:3C840	0.BIN	3C840	13	str	アイテムめい    ねだん	Item     Cost	claude	
+0.BIN:3C854	0.BIN	3C854	3	str	G{FD06}			
+0.BIN:3C858	0.BIN	3C858	16	str	AP {FD03}{NL}しゃてい {FD01}~{FD01}	AP {FD03}{NL}Rng: {FD01}~{FD01}	claude	
+0.BIN:3C86C	0.BIN	3C86C	13	str	DP  {FD03}{NL}MD  {FD03}			
+0.BIN:3C87C	0.BIN	3C87C	25	str	AP  {FD03} {FD03}{NL}しゃてい{FD01}~{FD01} {FD01}~{FD01}	AP  {FD03} {FD03}{NL}Rng:{FD01}~{FD01} {FD01}~{FD01}	claude	
+0.BIN:3C898	0.BIN	3C898	19	str	DP  {FD03} {FD03}{NL}MD  {FD03} {FD03}			
+0.BIN:3C8AC	0.BIN	3C8AC	5	str	パーティー	Party	claude	
+0.BIN:3C8C0	0.BIN	3C8C0	17	str	こじんアイテム{NL}パーティーアイテム	Personal{NL}Party	claude	
+0.BIN:3C8D4	0.BIN	3C8D4	11	str	マグネタイト{NL}アイテム	MAG{NL}Items	claude	
+0.BIN:3C8E0	0.BIN	3C8E0	18	str	しょうひMAG{FD03}{NL}しょじMAG{FD04}	CostMAG{FD03}{NL}OwnMAG{FD04}	claude	
+0.BIN:3C8F4	0.BIN	3C8F4	9	str	{FD01}{FD01}{FD01}/{FA}2			
+0.BIN:3C900	0.BIN	3C900	37	str	おかね   →マグネタイトのこうかん{NL}マグネタイト→おかね   のこうかん	Trade G for MAG{NL}Trade MAG for G	claude	
+0.BIN:3C928	0.BIN	3C928	18	str	   RATE{NL}MAG10=100G			
+0.BIN:3C954	0.BIN	3C954	29	str	ほうせき→アイテムとこうかん{NL}ほうせき→セイレイとこうかん	Gems→Items{NL}Gems→Spirits	claude	
+0.BIN:3C974	0.BIN	3C974	4	str	{FB} {FD01}			
+0.BIN:3C97C	0.BIN	3C97C	6	str	アイテムめい	Item	claude	
+0.BIN:3C984	0.BIN	3C984	9	str	ひつようなほうせき	Gems Req.	claude	
+0.BIN:3C990	0.BIN	3C990	6	str	せいれいめい	Spirit	claude	
+0.BIN:3C99C	0.BIN	3C99C	31	str	{FB} MP{FD03}{NL}けいやくあくま {FD01}/{FD01}     しょうひMP	{FB} MP{FD03}{NL}Pacts   {FD01}/{FD01}     MP Use	claude	
+0.BIN:3C9BC	0.BIN	3C9BC	7	str	NO DATA			
+0.BIN:3C9C4	0.BIN	3C9C4	16	str	TACTICAL COMMAND			
+0.BIN:3C9D8	0.BIN	3C9D8	8	str	ターンすう {FD02}	Turns {FD02}	claude	
+0.BIN:3C9E4	0.BIN	3C9E4	34	str	{FB}{NL}はかいユニット {FD02}{NL}きょてん {FD02}/{FD02}{NL}ユニット {FD02}/{FD02}	{FB}{NL}Killed {FD02}{NL}Base {FD02}/{FD02}{NL}Unit {FD02}/{FD02}	claude	
+0.BIN:3CA08	0.BIN	3CA08	2	str	{FB}{FB}			
+0.BIN:3CA0C	0.BIN	3CA0C	7	str	DISC {FD01}			
+0.BIN:3CA14	0.BIN	3CA14	2	str	なし	--	claude	
+0.BIN:3CA1C	0.BIN	3CA1C	7	str	ねだん G{FD06}	Pr. G{FD06}	claude	
+0.BIN:4D234	0.BIN	4D234	6	str	なまえ {F9}7	Name{F9}7	claude	
+0.BIN:4D23C	0.BIN	4D23C	8	str	しゅぞく  {F9}5	Race  {F9}5	claude	
+0.BIN:4D248	0.BIN	4D248	8	str	あいしょう {F9}5	Compat{F9}5	claude	
+0.BIN:4D254	0.BIN	4D254	10	str	ちゅうせいど  {FD03}	Loyalty {FD03}	claude	
+0.BIN:4D260	0.BIN	4D260	19	str	いどうタイプ{F9}4{NL}いどうりょく  {FD02}	MvType{F9}4{NL}Move    {FD02}	claude	
+0.BIN:4D274	0.BIN	4D274	20	str	そうびタイプ{NL}{NL}しゃてい   {FD01}~{FD01}	Weapon{NL}{NL}Range  {FD01}~{FD01}	claude	
+0.BIN:4D28C	0.BIN	4D28C	15	str	コンディション{NL}     {F9}5	Status{NL}     {F9}5	claude	
+0.BIN:4D29C	0.BIN	4D29C	13	str	EXP {FD03}{NL}TRN {FD03}			
+0.BIN:4D2AC	0.BIN	4D2AC	15	str	LV   {FD03}{NL}RNK  {FD03}			
+0.BIN:4D2BC	0.BIN	4D2BC	9	str	HP  {FD03}/{FD03}			
+0.BIN:4D2C8	0.BIN	4D2C8	9	str	MP  {FD03}/{FD03}			
+0.BIN:4D2D4	0.BIN	4D2D4	23	str	AP   {FD03}{NL}DP   {FD03}{NL}MD   {FD03}			
+0.BIN:4D2EC	0.BIN	4D2EC	10	str	MAG  {FD03}/{FD03}			
+0.BIN:4D2F8	0.BIN	4D2F8	3	str	{FB}{FD02}			
+0.BIN:4D300	0.BIN	4D300	2	str	=S			
+0.BIN:4D304	0.BIN	4D304	2	str	=A			
+0.BIN:4D308	0.BIN	4D308	2	str	=B			
+0.BIN:4D30C	0.BIN	4D30C	2	str	=C			
+0.BIN:4D310	0.BIN	4D310	2	str	=D			
+0.BIN:4D314	0.BIN	4D314	2	str	=E			
+0.BIN:4D318	0.BIN	4D318	2	str	=H			
+0.BIN:4D31C	0.BIN	4D31C	11	str	MP  ???/???			
+0.BIN:4E3A0	0.BIN	4E3A0	7	str	NO DATA			
+SMAP.BIN:50550	SMAP.BIN	50550	16	str	バトルスタート{NL} はい{NL} いいえ	Battle?{NL} Yes{NL} No	claude	
+SMAP.BIN:50564	SMAP.BIN	50564	8	str	ーーーーーーーー			
+SMAP.BIN:50570	SMAP.BIN	50570	5	str	つき {FD01}	Mn {FD01}	claude	
+SMAP.BIN:50578	SMAP.BIN	50578	8	str	ユニット はいち	Deploy	claude	
+SMAP.BIN:50584	SMAP.BIN	50584	18	str	オート{NL}マニュアル{NL}バトルスタート{NL}	Auto{NL}Manual{NL}Start{NL}	claude	
+SMAP.BIN:50598	SMAP.BIN	50598	3	str	END			
+SMAP.BIN:505A4	SMAP.BIN	505A4	9	str	UNIT あと{FD02}	Units {FD02}	claude	
+SMAP.BIN:505B0	SMAP.BIN	505B0	22	str	{FB}{NL}LV      {FD02}{NL}HP{NL}MP{NL}MAG			
+SMAP.BIN:505DC	SMAP.BIN	505DC	2	str	{F9}4			
+SMAP.BIN:50604	SMAP.BIN	50604	37	str	いどうタイプ{NL}いどうりょく{NL}MAG{NL}しゃてい{NL}そうびタイプ{NL}EXP{NL}TRN	MvType{NL}Move{NL}MAG{NL}Range{NL}Weapon{NL}EXP{NL}TRN	claude	
+SMAP.BIN:50640	SMAP.BIN	50640	2	str	{F9}6			
+SMAP.BIN:50644	SMAP.BIN	50644	11	str	{FB}{NL}LV{NL}HP{NL}MP{NL}			
+SMAP.BIN:50650	SMAP.BIN	50650	23	str	{FB}{NL}MP{NL}TYPE{NL}こうか{NL}しゃてい{NL}HIT{NL}	{FB}{NL}MP{NL}TYPE{NL}Eff{NL}Rng{NL}HIT{NL}	claude	
+SMAP.BIN:50668	SMAP.BIN	50668	4	str	 ほのお	Fire	claude	
+SMAP.BIN:5066D	SMAP.BIN	5066D	4	str	 こおり	Ice	claude	
+SMAP.BIN:50672	SMAP.BIN	50672	4	str	かみなり	Elec	claude	
+SMAP.BIN:50677	SMAP.BIN	50677	4	str	ねんどう	Psy	claude	
+SMAP.BIN:5067C	SMAP.BIN	5067C	4	str	せいしん	Mind	claude	
+SMAP.BIN:50681	SMAP.BIN	50681	4	str	しんけい	Nerv	claude	
+SMAP.BIN:50686	SMAP.BIN	50686	4	str	ダメージ	Dmg	claude	
+SMAP.BIN:5068B	SMAP.BIN	5068B	4	str	かいふく	Heal	claude	
+SMAP.BIN:50690	SMAP.BIN	50690	4	str	  なし	None	claude	
+SMAP.BIN:5069F	SMAP.BIN	5069F	6	str	けん    	Sword	claude	
+SMAP.BIN:506A6	SMAP.BIN	506A6	6	str	オノ    	Axe	claude	
+SMAP.BIN:506AD	SMAP.BIN	506AD	6	str	ツメ    	Claw	claude	
+SMAP.BIN:506B4	SMAP.BIN	506B4	6	str	ヤリ    	Spear	claude	
+SMAP.BIN:506BB	SMAP.BIN	506BB	6	str	つえ    	Staff	claude	
+SMAP.BIN:506C2	SMAP.BIN	506C2	6	str	ムチ    	Whip	claude	
+SMAP.BIN:506C9	SMAP.BIN	506C9	6	str	ガン    	Gun	claude	
+SMAP.BIN:506D0	SMAP.BIN	506D0	6	str	ゆみ    	Bow	claude	
+SMAP.BIN:506D7	SMAP.BIN	506D7	6	str	なげヤリ  	Javlin	claude	
+SMAP.BIN:506DE	SMAP.BIN	506DE	6	str	ブーメラン 	Boomrg	claude	
+SMAP.BIN:506E5	SMAP.BIN	506E5	6	str	ーーーーーー			
+SMAP.BIN:506EC	SMAP.BIN	506EC	2	str	{F9}5			
+SMAP.BIN:506F0	SMAP.BIN	506F0	6	str	LV{FD03} {FB}			
+SMAP.BIN:506F8	SMAP.BIN	506F8	8	str	HP {FD03}/{FD03}			
+SMAP.BIN:50704	SMAP.BIN	50704	8	str	MP {FD03}/{FD03}			
+SMAP.BIN:51FA8	SMAP.BIN	51FA8	24	str	{FB}{NL}ちゅうせい{NL}LV{NL}HP{NL}AT{NL}DF{NL}しゃてい	{FB}{NL}Loyal{NL}LV{NL}HP{NL}AT{NL}DF{NL}Rng	claude	
+SMAP.BIN:51FC4	SMAP.BIN	51FC4	18	str	{FB}{NL}HP   {FD03}{NL}ちゅうせい{FD03}{NL}	{FB}{NL}HP   {FD03}{NL}Loyal{FD03}{NL}	claude	
+SMAP.BIN:51FD8	SMAP.BIN	51FD8	27	str	ターン{NL}ちけい {F9}2{NL}かいひ {FD02}%{NL}つき  {FD01}/8	Turn{NL}Lnd {F9}2{NL}Eva {FD02}%{NL}Mn {FD01}/8	claude	
+SMAP.BIN:52020	SMAP.BIN	52020	35	str	{FB}{NL}{NL}はかいユニット {FD02}{NL}きょてん {FD02}/{FD02}{NL}ユニット {FD02}/{FD02}	{FB}{NL}{NL}Killed {FD02}{NL}Base {FD02}/{FD02}{NL}Unit {FD02}/{FD02}	claude	
+SMAP.BIN:52044	SMAP.BIN	52044	8	str	ターン   {FD02}	Turn  {FD02}	claude	
+SMAP.BIN:52050	SMAP.BIN	52050	36	str	    なまえ   LV RK   HP     MP  AP  DP{NL}	    Name  LV RK   HP     MP  AP  DP{NL}	claude	
+SMAP.BIN:52078	SMAP.BIN	52078	36	str	  END     LV RK   HP     MP  AP  DP{NL}			
+SMAP.BIN:520A0	SMAP.BIN	520A0	3	str	AP 			
+SMAP.BIN:520A4	SMAP.BIN	520A4	2	str	DP			
+SMAP.BIN:520A8	SMAP.BIN	520A8	2	str	Yむ			
+SMAP.BIN:520AB	SMAP.BIN	520AB	19	str	ゆ1 ウ1ゾ ふ や  YねYほ Yむ			
+SMAP.BIN:520BF	SMAP.BIN	520BF	32	str	ゆ  i U a ウ1ゾ ふ や  YねYほ   ???/???			
+SMAP.BIN:520E0	SMAP.BIN	520E0	3	str	 ミス	Mis	claude	
+SMAP.BIN:520E4	SMAP.BIN	520E4	3	str	アップ	Up	claude	
+SMAP.BIN:520E8	SMAP.BIN	520E8	3	str	ダウン	Dwn	claude	
+SMAP.BIN:520EC	SMAP.BIN	520EC	3	str	???			
+SMAP.BIN:520F0	SMAP.BIN	520F0	3	str	へいち	Pln	claude	
+SMAP.BIN:520F4	SMAP.BIN	520F4	3	str	しはい	Hld	claude	
+SMAP.BIN:520F8	SMAP.BIN	520F8	3	str	へいち	Pln	claude	
+SMAP.BIN:520FC	SMAP.BIN	520FC	3	str	みんか	Hse	claude	
+SMAP.BIN:52100	SMAP.BIN	52100	3	str	みち 	Rd	claude	
+SMAP.BIN:52104	SMAP.BIN	52104	3	str	はこ 	Box	claude	
+SMAP.BIN:52108	SMAP.BIN	52108	3	str	へいち	Pln	claude	
+SMAP.BIN:5210C	SMAP.BIN	5210C	3	str	はし 	Brg	claude	
+SMAP.BIN:52110	SMAP.BIN	52110	3	str	ゆき 	Snw	claude	
+SMAP.BIN:52114	SMAP.BIN	52114	3	str	こおり	Ice	claude	
+SMAP.BIN:52118	SMAP.BIN	52118	3	str	くさち	Grs	claude	
+SMAP.BIN:5211C	SMAP.BIN	5211C	3	str	あれち	Wst	claude	
+SMAP.BIN:52120	SMAP.BIN	52120	3	str	いわば	Rck	claude	
+SMAP.BIN:52124	SMAP.BIN	52124	3	str	すなち	Snd	claude	
+SMAP.BIN:52128	SMAP.BIN	52128	3	str	みず 	Wtr	claude	
+SMAP.BIN:5212C	SMAP.BIN	5212C	3	str	そら 	Sky	claude	
+SMAP.BIN:52130	SMAP.BIN	52130	3	str	やね 	Rf	claude	
+SMAP.BIN:52134	SMAP.BIN	52134	3	str	き  	Tre	claude	
+SMAP.BIN:52138	SMAP.BIN	52138	3	str	はしら	Plr	claude	
+SMAP.BIN:5213C	SMAP.BIN	5213C	3	str	きんし	No	claude	
+SMAP.BIN:52140	SMAP.BIN	52140	3	str	ゆか 	Flr	claude	
+SMAP.BIN:52144	SMAP.BIN	52144	3	str	かべ 	Wal	claude	
+SMAP.BIN:52148	SMAP.BIN	52148	3	str	ビル 	Bld	claude	
+SMAP.BIN:5214C	SMAP.BIN	5214C	3	str	へいち	Pln	claude	
+SMAP.BIN:52150	SMAP.BIN	52150	3	str	だいざ	Pds	claude	
+SMAP.BIN:5215C	SMAP.BIN	5215C	31	str	{FB}{NL}LV{NL}HP  {FD03}/{FD03}{NL}こうか{NL}MD{NL}HIT     %	{FB}{NL}LV{NL}HP  {FD03}/{FD03}{NL}Eff{NL}MD{NL}HIT     %	claude	attack preview panel
+FIGHT.BIN:17E2C	FIGHT.BIN	17E2C	7	str	こうか  {FD03}	Eff  {FD03}	claude	battle scene status
+SMAP.BIN:51B9C	SMAP.BIN	51B9C	11	str	マグネタイト{NL}アイテム	MAG{NL}Items	claude	same as 0.BIN:3C8D4
+REMIX.BIN:1F7EB	REMIX.BIN	1F7EB	10	str	01   けん   			
+REMIX.BIN:1F7F6	REMIX.BIN	1F7F6	5	str	オノ   	Axe	claude	
+REMIX.BIN:1F7FC	REMIX.BIN	1F7FC	5	str	ツメ   	Claw	claude	
+REMIX.BIN:1F802	REMIX.BIN	1F802	5	str	ヤリ   	Spear	claude	
+REMIX.BIN:1F808	REMIX.BIN	1F808	5	str	つえ   	Staff	claude	
+REMIX.BIN:1F80E	REMIX.BIN	1F80E	5	str	ムチ   	Whip	claude	
+REMIX.BIN:1F814	REMIX.BIN	1F814	5	str	ガン   	Gun	claude	
+REMIX.BIN:1F81A	REMIX.BIN	1F81A	5	str	ゆみ   	Bow	claude	
+REMIX.BIN:1F820	REMIX.BIN	1F820	5	str	なげヤリ 	Javln	claude	
+REMIX.BIN:1F826	REMIX.BIN	1F826	5	str	ブーメラン	Boomr	claude	
+REMIX.BIN:1F82C	REMIX.BIN	1F82C	5	str	ーーーー 			
+REMIX.BIN:1F964	REMIX.BIN	1F964	6	str	にしかさい7			
+REMIX.BIN:1F96C	REMIX.BIN	1F96C	11	str	SELECT ITEM			
+REMIX.BIN:1F978	REMIX.BIN	1F978	5	str	DEVIL			
+REMIX.BIN:1F980	REMIX.BIN	1F980	10	str	SELECT 1st			
+REMIX.BIN:1F98C	REMIX.BIN	1F98C	10	str	SELECT 2nd			
+REMIX.BIN:1F998	REMIX.BIN	1F998	10	str	SELECT 3rd			
+REMIX.BIN:1F9A4	REMIX.BIN	1F9A4	11	str	SELECT MAIN			
+REMIX.BIN:1F9B0	REMIX.BIN	1F9B0	10	str	SELECT SUB			
+REMIX.BIN:1F9BC	REMIX.BIN	1F9BC	6	str	ARCANA			
+REMIX.BIN:1F9C4	REMIX.BIN	1F9C4	34	str	アイテムめい                かいすう しょじユニット	Item                  Uses Holder 	claude	
+REMIX.BIN:1F9E8	REMIX.BIN	1F9E8	18	str	AP{FD03} しゃてい{FD01}~{FD01}  {FD02}	AP{FD03} Rng:{FD01}~{FD01}  {FD02}	claude	
+REMIX.BIN:1F9FC	REMIX.BIN	1F9FC	15	str	DP{FD03} MD {FD03}   {FD02}			
+REMIX.BIN:1FA0C	REMIX.BIN	1FA0C	20	str	こうげきりょく{FD03} しゃてい {FD01}~{FD01}	Attack {FD03} Rng: {FD01}~{FD01}	claude	
+REMIX.BIN:1FA24	REMIX.BIN	1FA24	22	str	ぼうぎょりょく{FD03} まほうぼうぎょりょく{FD03}	Defense{FD03} Magic Def.{FD03}	claude	
+REMIX.BIN:1FA3C	REMIX.BIN	1FA3C	33	str	なまえ       けっか        AP しゃてい かいすう	Name      Result     AP Rng: Uses	claude	
+REMIX.BIN:1FA60	REMIX.BIN	1FA60	33	str	なまえ       けっか        DP MD   かいすう	Name      Result     DP MD   Uses	claude	
+REMIX.BIN:1FA84	REMIX.BIN	1FA84	18	str	LV{FD02} RK{FD02} ちゅうせいど{FD03}	LV{FD02} RK{FD02} Loyal {FD03}	claude	
+REMIX.BIN:1FA98	REMIX.BIN	1FA98	14	str	{FB}  {FD03} {FD02}    {FD03}			
+REMIX.BIN:1FAA8	REMIX.BIN	1FAA8	10	str	しゅぞく   なまえ	Race  Name	claude	
+REMIX.BIN:1FAB8	REMIX.BIN	1FAB8	1	str	ー			
+REMIX.BIN:1FAC4	REMIX.BIN	1FAC4	13	str	{FB} LV{FD02} やくそく:{FB}	{FB} LV{FD02} Pact:{FB}	claude	
+REMIX.BIN:1FAD8	REMIX.BIN	1FAD8	27	str	しゅぞく   なまえ       けっか    なまえ	Race  Name      Result Name	claude	
+REMIX.BIN:1FAF8	REMIX.BIN	1FAF8	7	str	がったいふのう	No fuse	claude	
+REMIX.BIN:1FB04	REMIX.BIN	1FB04	8	str	がったいさせない	No merge	claude	
+REMIX.BIN:1FB10	REMIX.BIN	1FB10	10	str	きゅうしゅうさせない	No absorb	claude	
+REMIX.BIN:1FB1C	REMIX.BIN	1FB1C	7	str	ふういんしない	No seal	claude	
+REMIX.BIN:1FB24	REMIX.BIN	1FB24	21	str	しゅぞく   なまえ       アルカナ	Race  Name     Arcana	claude	
+REMIX.BIN:1FB44	REMIX.BIN	1FB44	7	str	しょじアルカナ	Arcana	claude	
+REMIX.BIN:1FB4C	REMIX.BIN	1FB4C	3	str	{FB}{FD02}			
+REMIX.BIN:1FB50	REMIX.BIN	1FB50	3	str	END			
+REMIX.BIN:1FB5C	REMIX.BIN	1FB5C	22	str	しゅぞく   なまえ      インストール	Race  Name     Install	claude	
+REMIX.BIN:1FB74	REMIX.BIN	1FB74	18	str	LV{FD02} RK{FD02} ちゅうせいど{FD03}	LV{FD02} RK{FD02} Loyal {FD03}	claude	
+REMIX.BIN:1FB88	REMIX.BIN	1FB88	2	str	ON			
+REMIX.BIN:1FB8C	REMIX.BIN	1FB8C	3	str	OFF			
+REMIX.BIN:1FB90	REMIX.BIN	1FB90	4	str	しゅぞく	Race	claude	
+REMIX.BIN:1FB98	REMIX.BIN	1FB98	3	str	G{FD09}			
+REMIX.BIN:1FB9C	REMIX.BIN	1FB9C	12	str	インストール {FD01}/{FD01}	Instl. {FD01}/{FD01}	claude	
+WORLD.BIN:2A8C0	WORLD.BIN	2A8C0	69	str	       デ1ア0 1ぅ0 1ウ0  ド1っ0 1ぇ0 1エ0  バ1イ0 1ぁ0 1オ0  ビ1ぃ0 1ょ0 1ぉ0   けん   			
+WORLD.BIN:2A906	WORLD.BIN	2A906	5	str	オノ   	Axe	claude	
+WORLD.BIN:2A90C	WORLD.BIN	2A90C	5	str	ツメ   	Claw	claude	
+WORLD.BIN:2A912	WORLD.BIN	2A912	5	str	ヤリ   	Spear	claude	
+WORLD.BIN:2A918	WORLD.BIN	2A918	5	str	つえ   	Staff	claude	
+WORLD.BIN:2A91E	WORLD.BIN	2A91E	5	str	ムチ   	Whip	claude	
+WORLD.BIN:2A924	WORLD.BIN	2A924	5	str	ガン   	Gun	claude	
+WORLD.BIN:2A92A	WORLD.BIN	2A92A	5	str	ゆみ   	Bow	claude	
+WORLD.BIN:2A930	WORLD.BIN	2A930	5	str	なげヤリ 	Javln	claude	
+WORLD.BIN:2A936	WORLD.BIN	2A936	5	str	ブーメラン	Boomr	claude	
+WORLD.BIN:2A93C	WORLD.BIN	2A93C	5	str	ーーーー 			
+0.BIN:4E3AC	0.BIN	4E3AC	66	str	いどうタイプ {FB} いどう  {FD02} しょじMAG {FD03}/{FD03}{NL}そうびタイプ      しゃてい{FD02} けいけんち {FD02} くんれんど {FD02}	MvType {FB} Mov  {FD02} OwnMAG {FD03}/{FD03}{NL}Weapon      Rng:{FD02} EXP   {FD02} TRN   {FD02}	claude	
+SMAP.BIN:52E8C	SMAP.BIN	52E8C	66	str	いどうタイプ {FB} いどう  {FD02} しょじMAG {FD03}/{FD03}{NL}そうびタイプ      しゃてい{FD02} けいけんち {FD02} くんれんど {FD02}	MvType {FB} Mov  {FD02} OwnMAG {FD03}/{FD03}{NL}Weapon      Rng:{FD02} EXP   {FD02} TRN   {FD02}	claude	
+SMAP.BIN:52ED0	SMAP.BIN	52ED0	57	str	G{FD09}{NL}MAG{FD07}{NL}ダイヤモンド   {FD01}{NL}サファイア    {FD01}{NL}エメラルド    {FD01}{NL}ルビー      {FD01}	G{FD09}{NL}MAG{FD07}{NL}Diamond  {FD01}{NL}Sapphire {FD01}{NL}Emerald  {FD01}{NL}Ruby     {FD01}	claude	
+SMAP.BIN:52F0C	SMAP.BIN	52F0C	96	str	パール      {FD01}{NL}オパール     {FD01}{NL}アメジスト    {FD01}{NL}ガーネット    {FD01}{NL}アクアマリン   {FD01}{NL}トパーズ     {FD01}{NL}オニキス     {FD01}{NL}ターコイズ    {FD01}{NL}	Pearl    {FD01}{NL}Opal     {FD01}{NL}Amethyst {FD01}{NL}Garnet   {FD01}{NL}Aquamarin{FD01}{NL}Topaz    {FD01}{NL}Onyx     {FD01}{NL}Turquoise{FD01}{NL}	claude	
+WORLD.BIN:2AF04	WORLD.BIN	2AF04	125	str	  パーティーパラメーター{NL}{NL}G      {FD09}{NL}マグネタイト   {FD07}{NL}げつれい          {FD02}{NL}ダイヤモンド         {FD01}{NL}サファイア          {FD01}{NL}エメラルド          {FD01}{NL}ルビー            {FD01}	  Party Stats{NL}{NL}G      {FD09}{NL}Magnetite{FD07}{NL}Moon Phase    {FD02}{NL}Diamond        {FD01}{NL}Sapphire       {FD01}{NL}Emerald        {FD01}{NL}Ruby           {FD01}	claude	
+WORLD.BIN:2AF84	WORLD.BIN	2AF84	144	str	パール            {FD01}{NL}オパール           {FD01}{NL}アメジスト          {FD01}{NL}ガーネット          {FD01}{NL}アクアマリン         {FD01}{NL}トパーズ           {FD01}{NL}オニキス           {FD01}{NL}ターコイズ          {FD01}{NL}	Pearl          {FD01}{NL}Opal           {FD01}{NL}Amethyst       {FD01}{NL}Garnet         {FD01}{NL}Aquamarin      {FD01}{NL}Topaz          {FD01}{NL}Onyx           {FD01}{NL}Turquoise      {FD01}{NL}	claude	
+WORLD.BIN:2B018	WORLD.BIN	2B018	98	str	{FB}{NL}{NL}レベル          {FD03}{NL}ランク          {FD03}{NL}HP           {FD03}{NL}MAX HP       {FD03}{NL}MP           {FD03}{NL}MAX MP       {FD03}	{FB}{NL}{NL}Level        {FD03}{NL}Rank         {FD03}{NL}HP           {FD03}{NL}MAX HP       {FD03}{NL}MP           {FD03}{NL}MAX MP       {FD03}	claude	
+WORLD.BIN:2B07C	WORLD.BIN	2B07C	103	str	MAG      {FD07}{NL}MAX MAG  {FD07}{NL}EXP          {FD03}{NL}くんれんど        {FD03}{NL}ちゅうせいど       {FD03}{NL}きほんこうげきりょく   {FD03}{NL}きほんPぼうぎょりょく  {FD03}	MAG      {FD07}{NL}MAX MAG  {FD07}{NL}EXP          {FD03}{NL}Training     {FD03}{NL}Loyalty      {FD03}{NL}Base Attack  {FD03}{NL}Base Phys.Def{FD03}	claude	
+WORLD.BIN:2B0E4	WORLD.BIN	2B0E4	135	str	きほんMぼうぎょりょく  {FD03}{NL}ちから          {FD03}{NL}ちえ           {FD03}{NL}たいりょく        {FD03}{NL}まりょく         {FD03}{NL}スピード         {FD03}{NL}こううんど        {FD03}{NL}やくそく  {FB}{NL}けいやくあくますう    {FD03}	Base Mag.Def {FD03}{NL}Strength     {FD03}{NL}Intellect    {FD03}{NL}Vitality     {FD03}{NL}Magic        {FD03}{NL}Speed        {FD03}{NL}Luck         {FD03}{NL}Pact  {FB}{NL}Contracts    {FD03}	claude	
+WORLD.BIN:2B16C	WORLD.BIN	2B16C	104	str	             イベントフラグ{NL}{NL}   1 2 3 4 5 6 7 8 910111213141516{NL} 1{NL} 2{NL} 3{NL} 4{NL} 5{NL} 6{NL} 7{NL} 8{NL} 9{NL}10{NL}11{NL}12{NL}13{NL}14{NL}15{NL}16	         Event Flags{NL}{NL}   1 2 3 4 5 6 7 8 910111213141516{NL} 1{NL} 2{NL} 3{NL} 4{NL} 5{NL} 6{NL} 7{NL} 8{NL} 9{NL}10{NL}11{NL}12{NL}13{NL}14{NL}15{NL}16	claude	
+WORLD.BIN:2B1D8	WORLD.BIN	2B1D8	10	str	    やくそくなし	   No pact	claude	
+WORLD.BIN:2B1E4	WORLD.BIN	2B1E4	10	str	  がったいさせない	  No merge	claude	
+WORLD.BIN:2B1F0	WORLD.BIN	2B1F0	10	str	きゅうしゅうさせない	 No absorb	claude	
+WORLD.BIN:2B1FC	WORLD.BIN	2B1FC	10	str	   ふういんしない	   No seal	claude	

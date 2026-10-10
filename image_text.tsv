@@ -1,0 +1,109 @@
+file	where	japanese	english	src
+W_WIND.DG2	0,272	銀座	Ginza	claude
+W_WIND.DG2	64,272	渋谷	Shibuya	claude
+W_WIND.DG2	128,272	新宿	Shinjuku	claude
+W_WIND.DG2	192,272	目黒	Meguro	claude
+W_WIND.DG2	0,296	有明	Ariake	claude
+W_WIND.DG2	64,296	代々木	Yoyogi	claude
+W_WIND.DG2	128,296	池袋	Ikebukuro	claude
+W_WIND.DG2	192,296	中野	Nakano	claude
+W_WIND.DG2	0,320	品川	Shinagawa	claude
+W_WIND.DG2	64,320	本郷	Hongo	claude
+W_WIND.DG2	128,320	多摩川	Tamagawa	claude
+W_WIND.DG2	192,320	川崎	Kawasaki	claude
+W_WIND.DG2	0,344	荻窪	Ogikubo	claude
+W_WIND.DG2	64,344	鎌倉	Kamakura	claude
+W_WIND.DG2	128,344	吉祥寺	Kichijoji	claude
+W_WIND.DG2	192,344	茅ヶ崎	Chigasaki	claude
+W_WIND.DG2	0,368	横浜	Yokohama	claude
+W_WIND.DG2	64,368	横須賀	Yokosuka	claude
+W_WIND.DG2	128,368	八王子	Hachioji	claude
+W_WIND.DG2	192,368	立川	Tachikawa	claude
+W_WIND.DG2	0,392	足柄	Ashigara	claude
+W_WIND.DG2	64,392	山中湖	Yamanaka	claude
+W_WIND.DG2	128,392	北富士	Kita-Fuji	claude
+W_WIND.DG2	192,392	魔神殿	Demon Hall	claude
+W_WIND.DG2	152,96	憤怒界	Wrath	claude
+W_WIND.DG2	152,120	暗冥界	Netherworld	claude
+W_WIND.DG2	152,144	冥殺界	Slaughter	claude
+W_WIND.DG2	152,168	異端界	Heresy	claude
+W_WIND.DG2	152,192	屍魔空	Corpse Sky	claude
+W_WIND.DG2	152,216	相模原	Sagamihara	claude
+W_WIND.DG2	0,416 (inactive)	銀座	Ginza	claude
+W_WIND.DG2	64,416 (inactive)	渋谷	Shibuya	claude
+W_WIND.DG2	128,416 (inactive)	新宿	Shinjuku	claude
+W_WIND.DG2	192,416 (inactive)	目黒	Meguro	claude
+W_WIND.DG2	0,441 (inactive)	有明	Ariake	claude
+W_WIND.DG2	64,441 (inactive)	代々木	Yoyogi	claude
+W_WIND.DG2	128,441 (inactive)	池袋	Ikebukuro	claude
+W_WIND.DG2	192,441 (inactive)	中野	Nakano	claude
+W_WIND.DG2	0,466 (inactive)	品川	Shinagawa	claude
+W_WIND.DG2	64,466 (inactive)	本郷	Hongo	claude
+W_WIND.DG2	128,466 (inactive)	多摩川	Tamagawa	claude
+W_WIND.DG2	192,466 (inactive)	川崎	Kawasaki	claude
+W_WIND.DG2	0,491 (inactive)	荻窪	Ogikubo	claude
+W_WIND.DG2	64,491 (inactive)	鎌倉	Kamakura	claude
+W_WIND.DG2	128,491 (inactive)	吉祥寺	Kichijoji	claude
+W_WIND.DG2	192,491 (inactive)	茅ヶ崎	Chigasaki	claude
+W_WIND.DG2	0,516 (inactive)	横浜	Yokohama	claude
+W_WIND.DG2	64,516 (inactive)	横須賀	Yokosuka	claude
+W_WIND.DG2	128,516 (inactive)	八王子	Hachioji	claude
+W_WIND.DG2	192,516 (inactive)	立川	Tachikawa	claude
+W_WIND.DG2	0,541 (inactive)	足柄	Ashigara	claude
+W_WIND.DG2	64,541 (inactive)	山中湖	Yamanaka	claude
+W_WIND.DG2	128,541 (inactive)	北富士	Kita-Fuji	claude
+W_WIND.DG2	192,541 (inactive)	魔神殿	Demon Hall	claude
+W_WIND.DG2	0,566 (inactive)	憤怒界	Wrath	claude
+W_WIND.DG2	64,566 (inactive)	暗冥界	Netherworld	claude
+W_WIND.DG2	128,566 (inactive)	冥殺界	Slaughter	claude
+W_WIND.DG2	192,566 (inactive)	異端界	Heresy	claude
+W_WIND.DG2	0,591 (inactive)	屍魔空	Corpse Sky	claude
+W_WIND.DG2	64,591 (inactive)	相模原	Sagamihara	claude
+HARD.DG2	y=33 / y=59	セーブ　ワールドマップ○　ステージマップ○ / ×	Save  World Map OK  Stage Map OK / No	claude
+WIN_HED1.DG2	sprite 0 @0x0 (48x10)	マジック	Magic	claude
+WIN_HED1.DG2	sprite 1 @0x1e0 (48x10)	サマナー	Summoner	claude
+WIN_HED1.DG2	sprite 2 @0x3c0 (48x10)	けいやく	Contract	claude
+WIN_HED1.DG2	sprite 3 @0x5a0 (48x10)	ストック	Stock	claude
+WIN_HED1.DG2	sprite 4 @0x780 (48x10)	すてる	Dismiss	claude
+WIN_HED1.DG2	sprite 5 @0x960 (48x10)	アルカナ	Arcana	claude
+WIN_HED1.DG2	sprite 6 @0xb40 (48x10)	アイテム	Items	claude
+WIN_HED1.DG2	sprite 7 @0xd20 (48x10)	デビル	Devil	claude
+WIN_HED1.DG2	sprite 8 @0xf00 (72x10)	けいやくまほう	Contract Magic	claude
+WIN_HED1.DG2	sprite 9 @0x11d0 (72x10)	マジカルレジスト	Magic Resist	claude
+WIN_HED1.DG2	sprite 10 @0x14a0 (80x10)	ダメージコントロール	Damage Control	claude
+STAT.BIN	header 0 @0x18000 (48x8)	マジック	Magic	claude
+STAT.BIN	header 1 @0x18180 (48x8)	サマナー	Summoner	claude
+STAT.BIN	header 2 @0x18300 (48x8)	けいやく	Contract	claude
+STAT.BIN	header 3 @0x18480 (48x8)	ストック	Stock	claude
+STAT.BIN	header 4 @0x18600 (48x8)	すてる	Dismiss	claude
+STAT.BIN	header 5 @0x18780 (48x8)	アイテム	Items	claude
+STAT.BIN	header 6 @0x18900 (48x8)	デビル	Devil	claude
+STAT.BIN	header 7 @0x18a80 (48x8)	アルカナ	Arcana	claude
+STAT.BIN	header 8 @0x18c00 (48x8)	そうび	Equip	claude
+STAT.BIN	header 9 @0x18d80 (64x8)	マジカルレジスト	Magic Resist	claude
+STAT.BIN	header 10 @0x18f80 (64x8)	けいやくまほう	Contract Magic	claude
+STAT.BIN	header 11 @0x19180 (64x8)	ダメージコントロール	Damage Control	claude
+KEI_1A.2D	title	警告	WARNING	claude
+KEI_1A.2D	body	本体ＲＡＭのバックアップの準備が／まだできていません。／本体ＲＡＭの全ての記録を消します。／よろしいですか？	System Memory is not yet set up / to hold save data. / All data in System Memory will be erased. / Is that OK?	claude
+KEI_1A.2D	options	はい / いいえ	Yes / No	claude
+KEI_1B.2D	title	警告	WARNING	claude
+KEI_1B.2D	body	カートリッジＲＡＭのバックアップの準備が／まだできていません。／カートリッジＲＡＭの全ての記録を消します。／よろしいですか？	Cartridge Memory is not yet set up / to hold save data. / All data in Cartridge Memory will be erased. / Is that OK?	claude
+KEI_1B.2D	options	はい / いいえ	Yes / No	claude
+KEI_2A.2D	title	警告	WARNING	claude
+KEI_2A.2D	body	本体ＲＡＭの全ての記録を消しました。	All data in System Memory has been erased.	claude
+KEI_2B.2D	title	警告	WARNING	claude
+KEI_2B.2D	body	カートリッジＲＡＭの全ての記録を消しました。	All data in Cartridge Memory has been erased.	claude
+KEI_3A.2D	title	警告	WARNING	claude
+KEI_3A.2D	body	本体ＲＡＭの全ての記録を消すことが／できませんでした。／セガサターン本体の保存データ管理画面で、／全ての記録を消してください。	The data in System Memory / could not be erased. / Please erase all data using the / Sega Saturn's Memory Manager.	claude
+KEI_3B.2D	title	警告	WARNING	claude
+KEI_3B.2D	body	カートリッジＲＡＭの全ての記録を消すことが／できませんでした。／セガサターン本体の保存データ管理画面で、／全ての記録を消してください。	The data in Cartridge Memory / could not be erased. / Please erase all data using the / Sega Saturn's Memory Manager.	claude
+KEI_4AB.2D	title	警告	WARNING	claude
+KEI_4AB.2D	body	容量が足りません。／175ブロック必要です。／このままゲームを開始した場合、／記録を保存することはできません。／ゲームを開始しますか？	Not enough free memory. / 175 blocks are required. / If you start the game now, / you will not be able to save. / Start the game anyway?	claude
+KEI_4AB.2D	options	はい / いいえ	Yes / No	claude
+NIC_MJ.2D	nickname keyboard	hiragana / katakana first, then 0-9 A-Z symbols	A-Z a-z . - ' ! ? : 0-9 symbols first, then katakana and hiragana (table: WORLD.BIN 0x2A980, REMIX.BIN 0x1F870; nickname_kbd.py)	claude
+JAPCOM.DG2	copy	Japanese command buttons	replaced by the game's own English set (ENGCOM.DG2)	claude
+WMAP_COM.DG2	copy	Japanese command buttons	replaced by the game's own English set (same sheet)	claude
+WMAP_CM1.DG2	copy	Japanese command buttons	replaced by the game's own English set (same sheet)	claude
+REMCMD.DG2	copy	Japanese command buttons	replaced by the game's own English set (same sheet)	claude
+SHOPCMD.DG2	copy	Japanese command buttons	replaced by the game's own English set (same sheet)	claude
+TALK_COM.DG2	copy	Japanese command buttons	replaced by the game's own English set (same sheet)	claude

@@ -1,0 +1,15 @@
+# Your own game files: never commit or upload them
+*.bin
+*.BIN
+*.iso
+*.cue
+*.chd
+*.m3u
+*.zip
+/Disc1/
+/Disc2/
+
+# Generated
+__pycache__/
+/build/
+*.rondepatch
