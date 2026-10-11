@@ -15,8 +15,7 @@ Japanese discs.
 
 The script was translated with AI (Claude), from the original Japanese, following a style guide that keeps
 names and terms consistent with the rest of the Megami Tensei series (`TRANSLATION_GUIDE.md`). It has not yet
-been proofread by a fluent Japanese speaker. The whole script is in plain text tables in this repository, and
-corrections from Japanese speakers are very welcome: open an issue or a pull request.
+been proofread by a fluent Japanese speaker; if you spot a mistranslation, feel free to open an issue.
 
 ## Discs
 
