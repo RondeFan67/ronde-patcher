@@ -11,12 +11,30 @@ FMVs.
 This repository holds **no game files** (no disc images, no extracted files). You need your own dump of the
 Japanese discs.
 
+## About this translation
+
+The script was translated with AI (Claude), from the original Japanese, following a style guide that keeps
+names and terms consistent with the rest of the Megami Tensei series (`TRANSLATION_GUIDE.md`). It has not yet
+been proofread by a fluent Japanese speaker. The whole script is in plain text tables in this repository, and
+corrections from Japanese speakers are very welcome: open an issue or a pull request.
+
+## Discs
+
+The patch needs the Japanese release, **T-14415G v1.001**, both discs. It was tested against the Redump dumps:
+
+| Disc | Redump | Tracks | Size | CRC32 |
+|---|---|---|---|---|
+| Disc 1 | [redump.org/disc/2900](http://redump.org/disc/2900/) | 2 | 609,704,256 bytes | `73172835` |
+| Disc 2 | [redump.org/disc/2901](http://redump.org/disc/2901/) | 3 | 620,492,880 bytes | `be025846` |
+
+Other good dumps of v1.001 should work too: the patcher checks each file it changes, not the whole image.
+CHD images must be converted to `.cue`/`.bin` first (`chdman extractcd -i game.chd -o game.cue`).
+
 ## Status: public beta
 
-Everything is translated, but only the opening chapter has been play-tested so far. Every text box was
-checked with an automated previewer, so layout problems (lines running off the box, overlapping text) should
-be rare. What has not been seen in play yet: most of the later stages, Disc 2, the endings, and many demon
-conversations. **You are the testers.** Please report anything that looks wrong:
+Everything is translated, and the first three chapters have been play-tested. Every text box was checked
+with an automated previewer, so layout problems (lines running off the box, overlapping text) should be rare.
+What has not been seen in play yet: the later chapters, Disc 2, the endings, and many demon conversations. **You are the testers.** Please report anything that looks wrong:
 
 - Japanese text that is still showing, garbled letters, or text that runs out of its box
 - a line that reads wrong, a name spelled two ways, or a mistranslation
